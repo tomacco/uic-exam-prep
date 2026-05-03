@@ -1,4 +1,8 @@
-export default function ResultsScreen({ result, studentName, onGoHome, onRetry }) {
+import { useState } from 'react'
+
+export default function ResultsScreen({ result, questions, studentName, onGoHome, onRetry }) {
+  const [reviewMode, setReviewMode] = useState(null) // null | 'errors' | 'all'
+
   const percentage = Math.round((result.score / result.totalQuestions) * 100)
   const passed = percentage >= 60
 
@@ -17,6 +21,28 @@ export default function ResultsScreen({ result, studentName, onGoHome, onRetry }
     }
   })
   const sortedWeakTopics = Object.entries(wrongByTopic).sort((a, b) => b[1] - a[1])
+
+  // Build review data: merge answers with full question details
+  const reviewAnswers = reviewMode
+    ? result.answers
+        .map((answer, idx) => {
+          const question = questions.find((q) => q.id === answer.questionId)
+          return question ? { ...answer, question, index: idx + 1 } : null
+        })
+        .filter(Boolean)
+        .filter((item) => reviewMode === 'all' || !item.correct)
+    : []
+
+  if (reviewMode) {
+    return (
+      <ReviewPanel
+        answers={reviewAnswers}
+        mode={reviewMode}
+        onBack={() => setReviewMode(null)}
+        totalQuestions={result.totalQuestions}
+      />
+    )
+  }
 
   return (
     <div className="min-h-screen p-4 md:p-8">
@@ -56,6 +82,35 @@ export default function ResultsScreen({ result, studentName, onGoHome, onRetry }
               minute: '2-digit',
             })}
           </div>
+        </div>
+
+        {/* Review buttons */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+          <button
+            onClick={() => setReviewMode('errors')}
+            disabled={result.score === result.totalQuestions}
+            className="px-6 py-4 bg-primary-red/10 text-primary-black font-heading text-lg uppercase tracking-wide
+              border-4 border-primary-red shadow-[5px_5px_0px_#D62828]
+              hover:shadow-[2px_2px_0px_#D62828] hover:translate-x-1 hover:translate-y-1
+              transition-all disabled:opacity-30 disabled:cursor-not-allowed"
+          >
+            <span className="block">✗ Ver errores</span>
+            <span className="block text-sm font-body normal-case text-primary-red">
+              {result.totalQuestions - result.score} preguntas falladas
+            </span>
+          </button>
+          <button
+            onClick={() => setReviewMode('all')}
+            className="px-6 py-4 bg-primary-blue/10 text-primary-black font-heading text-lg uppercase tracking-wide
+              border-4 border-primary-blue shadow-[5px_5px_0px_#003566]
+              hover:shadow-[2px_2px_0px_#003566] hover:translate-x-1 hover:translate-y-1
+              transition-all"
+          >
+            <span className="block">☰ Ver todas</span>
+            <span className="block text-sm font-body normal-case text-primary-blue">
+              {result.totalQuestions} preguntas completas
+            </span>
+          </button>
         </div>
 
         {/* Subject breakdown */}
@@ -121,6 +176,160 @@ export default function ResultsScreen({ result, studentName, onGoHome, onRetry }
           >
             ← Inicio
           </button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function ReviewPanel({ answers, mode, onBack, totalQuestions }) {
+  const [currentIdx, setCurrentIdx] = useState(0)
+  const current = answers[currentIdx]
+
+  if (!answers.length) {
+    return (
+      <div className="min-h-screen flex items-center justify-center p-8">
+        <div className="geo-border p-8 bg-primary-white text-center">
+          <p className="font-heading text-xl uppercase mb-4">¡Sin errores!</p>
+          <p className="font-body text-gray-600 mb-6">No tienes preguntas falladas. ¡Perfecto!</p>
+          <button onClick={onBack} className="px-6 py-3 bg-primary-black text-white font-heading uppercase">
+            ← Volver a resultados
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div className="min-h-screen p-4 md:p-8">
+      <div className="max-w-4xl mx-auto">
+        {/* Header */}
+        <div className="flex items-center justify-between mb-6">
+          <button
+            onClick={onBack}
+            className="px-4 py-2 font-heading uppercase text-sm border-3 border-primary-black
+              hover:bg-primary-black hover:text-white transition-colors"
+          >
+            ← Resultados
+          </button>
+          <div className="font-heading text-sm uppercase tracking-widest text-gray-500">
+            {mode === 'errors' ? 'Revisión de errores' : 'Revisión completa'}
+            {' · '}{currentIdx + 1}/{answers.length}
+          </div>
+        </div>
+
+        {/* Question card */}
+        <div className={`border-4 p-6 mb-6 ${current.correct ? 'border-bio-green bg-bio-green/5' : 'border-primary-red bg-primary-red/5'}`}>
+          {/* Status badge */}
+          <div className="flex items-center justify-between mb-4">
+            <span className={`inline-block px-3 py-1 text-xs font-heading uppercase tracking-widest
+              ${current.correct ? 'bg-bio-green text-white' : 'bg-primary-red text-white'}`}>
+              {current.correct ? '✓ Correcta' : '✗ Incorrecta'}
+            </span>
+            <span className="font-body text-xs text-gray-500">
+              Pregunta {current.index} · {current.question.topic}
+            </span>
+          </div>
+
+          {/* Question text */}
+          <p className="font-body text-lg leading-relaxed text-primary-black mb-6">
+            {current.question.question}
+          </p>
+
+          {/* Options */}
+          <div className="grid gap-2">
+            {Object.entries(current.question.options).map(([key, value]) => {
+              const isCorrectAnswer = key === current.correctAnswer
+              const isStudentAnswer = key === current.selected
+              const isWrongSelection = isStudentAnswer && !current.correct
+
+              let optionStyle = 'border-gray-200 bg-white'
+              if (isCorrectAnswer) {
+                optionStyle = 'border-bio-green bg-bio-green/10'
+              } else if (isWrongSelection) {
+                optionStyle = 'border-primary-red bg-primary-red/10'
+              }
+
+              return (
+                <div
+                  key={key}
+                  className={`px-4 py-3 border-3 ${optionStyle} flex items-center gap-3`}
+                >
+                  <span className={`inline-flex items-center justify-center w-7 h-7 border-2 font-heading text-sm flex-shrink-0
+                    ${isCorrectAnswer
+                      ? 'border-bio-green bg-bio-green text-white'
+                      : isWrongSelection
+                        ? 'border-primary-red bg-primary-red text-white'
+                        : 'border-gray-300'
+                    }`}>
+                    {key.toUpperCase()}
+                  </span>
+                  <span className="font-body text-sm flex-1">{value}</span>
+                  {isCorrectAnswer && (
+                    <span className="text-bio-green font-heading text-xs uppercase">✓ Correcta</span>
+                  )}
+                  {isWrongSelection && (
+                    <span className="text-primary-red font-heading text-xs uppercase">✗ Tu respuesta</span>
+                  )}
+                </div>
+              )
+            })}
+          </div>
+
+          {/* No answer indicator */}
+          {!current.selected && (
+            <p className="mt-3 font-body text-sm text-gray-500 italic">
+              — No respondiste esta pregunta
+            </p>
+          )}
+        </div>
+
+        {/* Navigation */}
+        <div className="flex items-center justify-between">
+          <button
+            onClick={() => setCurrentIdx(Math.max(0, currentIdx - 1))}
+            disabled={currentIdx === 0}
+            className="px-5 py-2 font-heading uppercase tracking-wide border-3 border-primary-black
+              hover:bg-primary-black hover:text-white transition-colors
+              disabled:opacity-30 disabled:cursor-not-allowed"
+          >
+            ← Anterior
+          </button>
+
+          <span className="font-body text-sm text-gray-500">
+            {currentIdx + 1} / {answers.length}
+          </span>
+
+          <button
+            onClick={() => setCurrentIdx(Math.min(answers.length - 1, currentIdx + 1))}
+            disabled={currentIdx === answers.length - 1}
+            className="px-5 py-2 font-heading uppercase tracking-wide border-3 border-primary-black
+              hover:bg-primary-black hover:text-white transition-colors
+              disabled:opacity-30 disabled:cursor-not-allowed"
+          >
+            Siguiente →
+          </button>
+        </div>
+
+        {/* Mini navigator */}
+        <div className="mt-6 p-4 border-2 border-primary-black bg-accent-cream/20">
+          <div className="flex flex-wrap gap-1">
+            {answers.map((item, idx) => (
+              <button
+                key={idx}
+                onClick={() => setCurrentIdx(idx)}
+                className={`w-7 h-7 text-xs font-body border transition-all
+                  ${idx === currentIdx
+                    ? 'bg-primary-black text-white border-primary-black scale-110'
+                    : item.correct
+                      ? 'bg-bio-green/20 border-bio-green'
+                      : 'bg-primary-red/20 border-primary-red'
+                  }`}
+              >
+                {idx + 1}
+              </button>
+            ))}
+          </div>
         </div>
       </div>
     </div>

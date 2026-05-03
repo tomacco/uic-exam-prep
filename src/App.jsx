@@ -106,6 +106,7 @@ function App() {
       {screen === 'results' && examResult && (
         <ResultsScreen
           result={examResult}
+          questions={currentExam?.questions || []}
           studentName={studentName}
           onGoHome={goHome}
           onRetry={() => startStandardExam(studentName)}
