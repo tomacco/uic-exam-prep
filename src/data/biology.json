@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "bio_1",
+    "question": "¿Cuál es la función principal de las mitocondrias?",
+    "options": {
+      "a": "Síntesis de proteínas",
+      "b": "Producción de energía (ATP)",
+      "c": "Almacenamiento de lípidos",
+      "d": "División celular"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_2",
+    "question": "¿Qué orgánulo se encarga de la síntesis de proteínas?",
+    "options": {
+      "a": "Aparato de Golgi",
+      "b": "Lisosomas",
+      "c": "Ribosomas",
+      "d": "Peroxisomas"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_3",
+    "question": "La membrana plasmática está formada principalmente por:",
+    "options": {
+      "a": "Una doble capa de fosfolípidos con proteínas",
+      "b": "Una capa simple de colesterol",
+      "c": "Celulosa y pectina",
+      "d": "Ácidos nucleicos y glúcidos"
+    },
+    "correct": "a",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_4",
+    "question": "¿Qué tipo de transporte celular requiere gasto de energía (ATP)?",
+    "options": {
+      "a": "Difusión simple",
+      "b": "Ósmosis",
+      "c": "Transporte activo",
+      "d": "Difusión facilitada"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_5",
+    "question": "El retículo endoplasmático rugoso se diferencia del liso porque:",
+    "options": {
+      "a": "Tiene ribosomas adheridos a su superficie",
+      "b": "Es más pequeño",
+      "c": "No tiene membrana",
+      "d": "Está en el núcleo"
+    },
+    "correct": "a",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_6",
+    "question": "¿Cuál es la función principal del aparato de Golgi?",
+    "options": {
+      "a": "Producir ATP",
+      "b": "Modificar, empaquetar y distribuir proteínas y lípidos",
+      "c": "Almacenar ADN",
+      "d": "Realizar la fotosíntesis"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_7",
+    "question": "Los lisosomas contienen:",
+    "options": {
+      "a": "ADN circular",
+      "b": "Enzimas digestivas (hidrolasas)",
+      "c": "Clorofila",
+      "d": "Glucógeno"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_8",
+    "question": "¿Qué estructura celular contiene el material genético en células eucariotas?",
+    "options": {
+      "a": "Citoplasma",
+      "b": "Ribosomas",
+      "c": "Núcleo",
+      "d": "Vacuola"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_9",
+    "question": "La pared celular vegetal está compuesta principalmente por:",
+    "options": {
+      "a": "Quitina",
+      "b": "Celulosa",
+      "c": "Peptidoglicano",
+      "d": "Colesterol"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_10",
+    "question": "¿Qué proceso ocurre cuando una célula se coloca en una solución hipotónica?",
+    "options": {
+      "a": "La célula se deshidrata (crenación)",
+      "b": "La célula absorbe agua y puede lisarse",
+      "c": "No ocurre ningún cambio",
+      "d": "La célula se divide"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_11",
+    "question": "¿Cuál de los siguientes NO es un orgánulo membranoso?",
+    "options": {
+      "a": "Mitocondria",
+      "b": "Ribosoma",
+      "c": "Retículo endoplasmático",
+      "d": "Aparato de Golgi"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_12",
+    "question": "El citoesqueleto está formado por:",
+    "options": {
+      "a": "Microfilamentos, filamentos intermedios y microtúbulos",
+      "b": "Solo microtúbulos",
+      "c": "Fosfolípidos y colesterol",
+      "d": "ARN mensajero"
+    },
+    "correct": "a",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_13",
+    "question": "La endocitosis es un proceso por el cual:",
+    "options": {
+      "a": "La célula expulsa sustancias al exterior",
+      "b": "La célula incorpora sustancias del medio externo",
+      "c": "Se sintetizan proteínas",
+      "d": "Se replica el ADN"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_14",
+    "question": "¿Qué orgánulo es exclusivo de las células vegetales?",
+    "options": {
+      "a": "Mitocondria",
+      "b": "Ribosoma",
+      "c": "Cloroplasto",
+      "d": "Aparato de Golgi"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_15",
+    "question": "Los centriolos participan en:",
+    "options": {
+      "a": "La síntesis de lípidos",
+      "b": "La formación del huso mitótico durante la división celular",
+      "c": "La digestión celular",
+      "d": "La fotosíntesis"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_16",
+    "question": "¿Qué modelo describe la estructura de la membrana plasmática?",
+    "options": {
+      "a": "Modelo de la doble hélice",
+      "b": "Modelo del mosaico fluido",
+      "c": "Modelo de llave y cerradura",
+      "d": "Modelo semiconservativo"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_17",
+    "question": "Las vacuolas en células vegetales se encargan de:",
+    "options": {
+      "a": "Producir energía",
+      "b": "Almacenar agua, nutrientes y desechos",
+      "c": "Sintetizar proteínas",
+      "d": "Formar el huso acromático"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_18",
+    "question": "La difusión facilitada se diferencia de la difusión simple en que:",
+    "options": {
+      "a": "Requiere ATP",
+      "b": "Necesita proteínas transportadoras de membrana",
+      "c": "Va en contra del gradiente de concentración",
+      "d": "Solo transporta agua"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_19",
+    "question": "¿Cuál es la función del retículo endoplasmático liso?",
+    "options": {
+      "a": "Síntesis de proteínas",
+      "b": "Síntesis de lípidos y detoxificación",
+      "c": "Digestión intracelular",
+      "d": "Almacenamiento de ADN"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_20",
+    "question": "La teoría celular establece que:",
+    "options": {
+      "a": "Solo los animales están formados por células",
+      "b": "Todos los seres vivos están formados por células y toda célula proviene de otra célula",
+      "c": "Las células se generan espontáneamente",
+      "d": "Las células no necesitan energía"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_21",
+    "question": "¿Qué proceso permite a la célula mantener concentraciones iónicas diferentes a las del medio extracelular?",
+    "options": {
+      "a": "Ósmosis",
+      "b": "Difusión simple",
+      "c": "Bomba sodio-potasio (Na⁺/K⁺-ATPasa)",
+      "d": "Pinocitosis"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_22",
+    "question": "Los peroxisomas se encargan principalmente de:",
+    "options": {
+      "a": "La síntesis de ATP",
+      "b": "La degradación del peróxido de hidrógeno (H₂O₂)",
+      "c": "La fotosíntesis",
+      "d": "La replicación del ADN"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_23",
+    "question": "¿En qué fase de la mitosis se alinean los cromosomas en el plano ecuatorial?",
+    "options": {
+      "a": "Profase",
+      "b": "Metafase",
+      "c": "Anafase",
+      "d": "Telofase"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_24",
+    "question": "¿Qué diferencia principal existe entre células procariotas y eucariotas?",
+    "options": {
+      "a": "Las procariotas tienen núcleo definido",
+      "b": "Las eucariotas carecen de ribosomas",
+      "c": "Las procariotas carecen de núcleo definido con membrana",
+      "d": "Las eucariotas no tienen ADN"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_25",
+    "question": "La fagocitosis es un tipo de:",
+    "options": {
+      "a": "Exocitosis",
+      "b": "Endocitosis en la que la célula engloba partículas sólidas",
+      "c": "Transporte pasivo",
+      "d": "Difusión facilitada"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_26",
+    "question": "¿Cuántas membranas rodean a la mitocondria?",
+    "options": {
+      "a": "Una",
+      "b": "Dos (membrana externa e interna)",
+      "c": "Tres",
+      "d": "Ninguna"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_27",
+    "question": "El glucocalix se encuentra en:",
+    "options": {
+      "a": "La cara interna de la membrana plasmática",
+      "b": "La cara externa de la membrana plasmática",
+      "c": "El interior de las mitocondrias",
+      "d": "El núcleo celular"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_28",
+    "question": "¿Qué ocurre en la anafase de la mitosis?",
+    "options": {
+      "a": "Los cromosomas se condensan",
+      "b": "Las cromátidas hermanas se separan hacia los polos",
+      "c": "Se forma la placa celular",
+      "d": "Se duplica el ADN"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_29",
+    "question": "La plasmodesmos en células vegetales permiten:",
+    "options": {
+      "a": "La fotosíntesis",
+      "b": "La comunicación y transporte entre células vecinas",
+      "c": "La división celular",
+      "d": "La respiración celular"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_30",
+    "question": "¿En qué parte de la mitocondria ocurre la cadena de transporte de electrones?",
+    "options": {
+      "a": "En la matriz mitocondrial",
+      "b": "En la membrana interna mitocondrial",
+      "c": "En la membrana externa",
+      "d": "En el espacio intermembranoso"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_31",
+    "question": "La citocinesis en células animales se realiza por:",
+    "options": {
+      "a": "Formación de una placa celular",
+      "b": "Estrangulamiento del citoplasma (surco de división)",
+      "c": "Fragmentación nuclear",
+      "d": "Endocitosis"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_32",
+    "question": "¿Qué orgánulo tiene su propio ADN además del núcleo?",
+    "options": {
+      "a": "Aparato de Golgi",
+      "b": "Lisosoma",
+      "c": "Mitocondria",
+      "d": "Retículo endoplasmático"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_33",
+    "question": "El transporte vesicular incluye:",
+    "options": {
+      "a": "Solo la exocitosis",
+      "b": "Endocitosis y exocitosis",
+      "c": "Solo la difusión",
+      "d": "Solo la ósmosis"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_34",
+    "question": "¿Cuál es la principal diferencia entre la mitosis y la meiosis?",
+    "options": {
+      "a": "La mitosis produce 4 células haploides",
+      "b": "La meiosis produce 2 células diploides",
+      "c": "La meiosis produce 4 células haploides y la mitosis 2 células diploides",
+      "d": "No hay diferencia"
+    },
+    "correct": "c",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_35",
+    "question": "Las proteínas integrales de membrana:",
+    "options": {
+      "a": "Están en la superficie de la membrana sin atravesarla",
+      "b": "Atraviesan total o parcialmente la bicapa lipídica",
+      "c": "Solo están en el interior celular",
+      "d": "No interactúan con lípidos"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_36",
+    "question": "¿Qué es la plasmólisis?",
+    "options": {
+      "a": "La entrada masiva de agua en la célula",
+      "b": "La separación de la membrana plasmática de la pared celular por pérdida de agua en medio hipertónico",
+      "c": "La división del citoplasma",
+      "d": "La fusión de dos células"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_37",
+    "question": "Los microtúbulos están formados por la proteína:",
+    "options": {
+      "a": "Actina",
+      "b": "Tubulina",
+      "c": "Queratina",
+      "d": "Miosina"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_38",
+    "question": "¿Qué ocurre durante la fase S del ciclo celular?",
+    "options": {
+      "a": "La célula se divide",
+      "b": "Se replica el ADN",
+      "c": "Se condensan los cromosomas",
+      "d": "Se forma el huso mitótico"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_39",
+    "question": "La apoptosis es:",
+    "options": {
+      "a": "La muerte celular programada",
+      "b": "La división celular descontrolada",
+      "c": "La fusión de células",
+      "d": "La infección viral"
+    },
+    "correct": "a",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_40",
+    "question": "¿Qué tipo de uniones celulares impiden el paso de sustancias entre células epiteliales?",
+    "options": {
+      "a": "Desmosomas",
+      "b": "Uniones estrechas (tight junctions)",
+      "c": "Uniones gap",
+      "d": "Hemidesmosomas"
+    },
+    "correct": "b",
+    "topic": "Biología celular"
+  },
+  {
+    "id": "bio_41",
+    "question": "Los monosacáridos son las unidades básicas de:",
+    "options": {
+      "a": "Las proteínas",
+      "b": "Los ácidos nucleicos",
+      "c": "Los glúcidos",
+      "d": "Los lípidos"
+    },
+    "correct": "c",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_42",
+    "question": "¿Cuál de los siguientes es un disacárido?",
+    "options": {
+      "a": "Glucosa",
+      "b": "Sacarosa",
+      "c": "Almidón",
+      "d": "Celulosa"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_43",
+    "question": "La estructura primaria de una proteína se refiere a:",
+    "options": {
+      "a": "Su forma tridimensional",
+      "b": "La secuencia lineal de aminoácidos",
+      "c": "Las interacciones entre subunidades",
+      "d": "Los puentes disulfuro"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_44",
+    "question": "¿Qué enlace une a los aminoácidos en una proteína?",
+    "options": {
+      "a": "Enlace glucosídico",
+      "b": "Enlace peptídico",
+      "c": "Enlace fosfodiéster",
+      "d": "Enlace iónico"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_45",
+    "question": "El almidón es un polisacárido de reserva en:",
+    "options": {
+      "a": "Animales",
+      "b": "Vegetales",
+      "c": "Hongos",
+      "d": "Bacterias"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_46",
+    "question": "¿Cuál es el polisacárido de reserva energética en animales?",
+    "options": {
+      "a": "Almidón",
+      "b": "Celulosa",
+      "c": "Glucógeno",
+      "d": "Quitina"
+    },
+    "correct": "c",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_47",
+    "question": "Los ácidos grasos insaturados se caracterizan por:",
+    "options": {
+      "a": "No tener dobles enlaces en su cadena",
+      "b": "Tener uno o más dobles enlaces en su cadena hidrocarbonada",
+      "c": "Ser siempre sólidos a temperatura ambiente",
+      "d": "Contener nitrógeno"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_48",
+    "question": "¿Cuál es la base nitrogenada que NO está presente en el ADN?",
+    "options": {
+      "a": "Adenina",
+      "b": "Guanina",
+      "c": "Uracilo",
+      "d": "Citosina"
+    },
+    "correct": "c",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_49",
+    "question": "Un nucleótido está formado por:",
+    "options": {
+      "a": "Un aminoácido, un azúcar y un fosfato",
+      "b": "Una base nitrogenada, una pentosa y un grupo fosfato",
+      "c": "Un ácido graso, un glicerol y un fosfato",
+      "d": "Una base nitrogenada y un aminoácido"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_50",
+    "question": "La desnaturalización de una proteína implica:",
+    "options": {
+      "a": "La rotura de enlaces peptídicos",
+      "b": "La pérdida de su estructura tridimensional y, por tanto, de su función",
+      "c": "El aumento de su actividad",
+      "d": "La adición de aminoácidos"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_51",
+    "question": "Los fosfolípidos son importantes porque:",
+    "options": {
+      "a": "Son la principal fuente de energía celular",
+      "b": "Forman la bicapa lipídica de las membranas celulares",
+      "c": "Transportan oxígeno en la sangre",
+      "d": "Almacenan información genética"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_52",
+    "question": "¿Cuál de las siguientes es una función de los lípidos?",
+    "options": {
+      "a": "Catalizar reacciones químicas",
+      "b": "Reserva energética, estructural y hormonal",
+      "c": "Transmitir impulsos nerviosos",
+      "d": "Transportar oxígeno"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_53",
+    "question": "El colesterol es un tipo de:",
+    "options": {
+      "a": "Glúcido",
+      "b": "Proteína",
+      "c": "Lípido esteroide",
+      "d": "Ácido nucleico"
+    },
+    "correct": "c",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_54",
+    "question": "¿Qué tipo de enlace une los nucleótidos en una cadena de ADN?",
+    "options": {
+      "a": "Enlace peptídico",
+      "b": "Enlace fosfodiéster",
+      "c": "Enlace glucosídico",
+      "d": "Puente de hidrógeno"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_55",
+    "question": "La estructura secundaria de las proteínas incluye:",
+    "options": {
+      "a": "Solo la secuencia de aminoácidos",
+      "b": "Hélices alfa y láminas beta",
+      "c": "La unión de varias subunidades",
+      "d": "La formación de micelas"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_56",
+    "question": "Las enzimas son proteínas que:",
+    "options": {
+      "a": "Almacenan energía",
+      "b": "Catalizan (aceleran) reacciones bioquímicas",
+      "c": "Forman estructuras celulares",
+      "d": "Transportan oxígeno"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_57",
+    "question": "¿Cuántos aminoácidos esenciales existen para el ser humano?",
+    "options": {
+      "a": "5",
+      "b": "8-9",
+      "c": "20",
+      "d": "50"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_58",
+    "question": "La lactosa es un disacárido formado por:",
+    "options": {
+      "a": "Glucosa + fructosa",
+      "b": "Galactosa + glucosa",
+      "c": "Glucosa + glucosa",
+      "d": "Fructosa + galactosa"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_59",
+    "question": "Los triglicéridos están formados por:",
+    "options": {
+      "a": "Tres aminoácidos y un glicerol",
+      "b": "Tres ácidos grasos y un glicerol",
+      "c": "Tres nucleótidos",
+      "d": "Tres monosacáridos"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_60",
+    "question": "El agua es esencial para la vida porque:",
+    "options": {
+      "a": "Es apolar y no disuelve nada",
+      "b": "Tiene alto calor específico, es disolvente universal y participa en reacciones metabólicas",
+      "c": "Es un sólido a temperatura ambiente",
+      "d": "No interviene en reacciones químicas"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_61",
+    "question": "¿Qué vitamina es liposoluble?",
+    "options": {
+      "a": "Vitamina C",
+      "b": "Vitamina B12",
+      "c": "Vitamina D",
+      "d": "Vitamina B6"
+    },
+    "correct": "c",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_62",
+    "question": "La celulosa es un polisacárido estructural que se encuentra en:",
+    "options": {
+      "a": "La membrana de células animales",
+      "b": "La pared celular de los vegetales",
+      "c": "El exoesqueleto de artrópodos",
+      "d": "El hígado humano"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_63",
+    "question": "¿Cuál es la pentosa del ARN?",
+    "options": {
+      "a": "Desoxirribosa",
+      "b": "Ribosa",
+      "c": "Glucosa",
+      "d": "Fructosa"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_64",
+    "question": "Las proteínas con estructura cuaternaria:",
+    "options": {
+      "a": "Tienen un solo polipéptido",
+      "b": "Están formadas por varias subunidades polipeptídicas",
+      "c": "Carecen de función biológica",
+      "d": "No existen en la naturaleza"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_65",
+    "question": "La quitina es un polisacárido estructural presente en:",
+    "options": {
+      "a": "Las plantas",
+      "b": "El exoesqueleto de artrópodos y la pared de hongos",
+      "c": "Las bacterias",
+      "d": "Los virus"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_66",
+    "question": "El ATP (adenosín trifosfato) es:",
+    "options": {
+      "a": "Un lípido de reserva",
+      "b": "La principal molécula energética de las células",
+      "c": "Un polisacárido",
+      "d": "Una proteína enzimática"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_67",
+    "question": "¿Cuál es la diferencia entre una grasa saturada y una insaturada?",
+    "options": {
+      "a": "Las saturadas tienen dobles enlaces",
+      "b": "Las insaturadas tienen uno o más dobles enlaces en sus ácidos grasos",
+      "c": "Las saturadas son líquidas a temperatura ambiente",
+      "d": "No hay diferencia"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_68",
+    "question": "Los aminoácidos se caracterizan por tener:",
+    "options": {
+      "a": "Un grupo amino (-NH₂) y un grupo carboxilo (-COOH)",
+      "b": "Un grupo fosfato y un azúcar",
+      "c": "Solo un grupo amino",
+      "d": "Un grupo aldehído y un cetona"
+    },
+    "correct": "a",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_69",
+    "question": "La sacarosa está formada por:",
+    "options": {
+      "a": "Glucosa + galactosa",
+      "b": "Glucosa + fructosa",
+      "c": "Glucosa + glucosa",
+      "d": "Fructosa + fructosa"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_70",
+    "question": "¿Qué propiedad del agua permite regular la temperatura corporal?",
+    "options": {
+      "a": "Su baja densidad",
+      "b": "Su alto calor específico",
+      "c": "Su viscosidad",
+      "d": "Su sabor neutro"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_71",
+    "question": "Las ceras son lípidos que funcionan como:",
+    "options": {
+      "a": "Reserva energética principal",
+      "b": "Impermeabilizantes y protectores en superficies biológicas",
+      "c": "Catalizadores enzimáticos",
+      "d": "Transportadores de oxígeno"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_72",
+    "question": "El glucógeno se almacena principalmente en:",
+    "options": {
+      "a": "El cerebro y los pulmones",
+      "b": "El hígado y los músculos",
+      "c": "Los riñones y el bazo",
+      "d": "La piel y los huesos"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_73",
+    "question": "¿Cuántos enlaces de hidrógeno se forman entre adenina y timina en el ADN?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_74",
+    "question": "Las prostaglandinas son lípidos derivados de:",
+    "options": {
+      "a": "El colesterol",
+      "b": "El ácido araquidónico",
+      "c": "La glucosa",
+      "d": "Los aminoácidos"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_75",
+    "question": "Un cofactor enzimático es:",
+    "options": {
+      "a": "Otra enzima",
+      "b": "Una molécula no proteica necesaria para la actividad de ciertas enzimas",
+      "c": "Un inhibidor",
+      "d": "Un sustrato"
+    },
+    "correct": "b",
+    "topic": "Biomoléculas"
+  },
+  {
+    "id": "bio_76",
+    "question": "¿Quién propuso el modelo de la doble hélice del ADN?",
+    "options": {
+      "a": "Mendel y Morgan",
+      "b": "Watson y Crick",
+      "c": "Darwin y Wallace",
+      "d": "Pasteur y Koch"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_77",
+    "question": "La replicación del ADN es semiconservativa, lo que significa que:",
+    "options": {
+      "a": "Ambas cadenas nuevas son completamente nuevas",
+      "b": "Cada molécula hija tiene una cadena original y una nueva",
+      "c": "Solo una de las moléculas hijas tiene ADN nuevo",
+      "d": "No se conserva ninguna cadena"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_78",
+    "question": "¿Qué enzima sintetiza la cadena complementaria de ADN durante la replicación?",
+    "options": {
+      "a": "ARN polimerasa",
+      "b": "ADN polimerasa",
+      "c": "Ligasa",
+      "d": "Helicasa"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_79",
+    "question": "La transcripción es el proceso por el cual:",
+    "options": {
+      "a": "Se replica el ADN",
+      "b": "Se sintetiza ARN a partir de una cadena molde de ADN",
+      "c": "Se sintetizan proteínas",
+      "d": "Se divide la célula"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_80",
+    "question": "La traducción ocurre en:",
+    "options": {
+      "a": "El núcleo",
+      "b": "Los ribosomas",
+      "c": "Las mitocondrias exclusivamente",
+      "d": "El aparato de Golgi"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_81",
+    "question": "Un codón está formado por:",
+    "options": {
+      "a": "2 nucleótidos",
+      "b": "3 nucleótidos",
+      "c": "4 nucleótidos",
+      "d": "1 nucleótido"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_82",
+    "question": "¿Cuál es el codón de inicio de la traducción?",
+    "options": {
+      "a": "UAA",
+      "b": "AUG",
+      "c": "UGA",
+      "d": "UAG"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_83",
+    "question": "Según la primera ley de Mendel (ley de la uniformidad):",
+    "options": {
+      "a": "Los caracteres se heredan de forma independiente",
+      "b": "Al cruzar dos líneas puras, la F1 es uniforme y expresa el carácter dominante",
+      "c": "Los alelos se separan durante la meiosis",
+      "d": "Todos los genes están ligados"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_84",
+    "question": "La segunda ley de Mendel (ley de la segregación) establece que:",
+    "options": {
+      "a": "Los genes de distintos caracteres se heredan juntos",
+      "b": "Los dos alelos de un gen se separan durante la formación de gametos",
+      "c": "Todos los descendientes son iguales",
+      "d": "Los genes se mezclan"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_85",
+    "question": "Si un individuo es heterocigoto (Aa) para un carácter con dominancia completa, su fenotipo será:",
+    "options": {
+      "a": "Intermedio entre dominante y recesivo",
+      "b": "Igual al del homocigoto dominante (AA)",
+      "c": "Igual al del homocigoto recesivo (aa)",
+      "d": "Diferente a ambos homocigotos"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_86",
+    "question": "¿Qué tipo de ARN lleva la información del ADN al ribosoma?",
+    "options": {
+      "a": "ARN transferente (ARNt)",
+      "b": "ARN mensajero (ARNm)",
+      "c": "ARN ribosómico (ARNr)",
+      "d": "ARN interferente"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_87",
+    "question": "¿Qué son los fragmentos de Okazaki?",
+    "options": {
+      "a": "Segmentos de proteína",
+      "b": "Pequeños fragmentos de ADN sintetizados en la cadena retardada durante la replicación",
+      "c": "Trozos de ARN mensajero",
+      "d": "Partes del ribosoma"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_88",
+    "question": "Una mutación puntual que cambia un nucleótido por otro se denomina:",
+    "options": {
+      "a": "Deleción",
+      "b": "Sustitución",
+      "c": "Inserción",
+      "d": "Inversión"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_89",
+    "question": "El cariotipo humano normal tiene:",
+    "options": {
+      "a": "44 cromosomas",
+      "b": "46 cromosomas (22 pares autosómicos + 1 par sexual)",
+      "c": "48 cromosomas",
+      "d": "23 cromosomas"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_90",
+    "question": "El síndrome de Down se produce por:",
+    "options": {
+      "a": "Monosomía del cromosoma 21",
+      "b": "Trisomía del cromosoma 21",
+      "c": "Deleción del cromosoma X",
+      "d": "Inversión del cromosoma 13"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_91",
+    "question": "¿Qué es un gen?",
+    "options": {
+      "a": "Una proteína",
+      "b": "Un segmento de ADN que codifica para un producto funcional (generalmente una proteína)",
+      "c": "Un cromosoma completo",
+      "d": "Un orgánulo celular"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_92",
+    "question": "La herencia ligada al sexo se refiere a genes localizados en:",
+    "options": {
+      "a": "Cromosomas autosómicos",
+      "b": "Cromosomas sexuales (X o Y)",
+      "c": "El ADN mitocondrial",
+      "d": "Los plásmidos"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_93",
+    "question": "El daltonismo es una enfermedad de herencia:",
+    "options": {
+      "a": "Autosómica dominante",
+      "b": "Recesiva ligada al cromosoma X",
+      "c": "Autosómica recesiva",
+      "d": "Ligada al cromosoma Y"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_94",
+    "question": "¿Qué enzima desenrolla la doble hélice del ADN durante la replicación?",
+    "options": {
+      "a": "ADN polimerasa",
+      "b": "Helicasa",
+      "c": "Ligasa",
+      "d": "Topoisomerasa"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_95",
+    "question": "Los intrones son:",
+    "options": {
+      "a": "Secuencias codificantes del ARNm",
+      "b": "Secuencias no codificantes que se eliminan durante el procesamiento del ARN (splicing)",
+      "c": "Proteínas del ribosoma",
+      "d": "Tipos de mutación"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_96",
+    "question": "El código genético es degenerado, lo que significa que:",
+    "options": {
+      "a": "Cada codón codifica varios aminoácidos",
+      "b": "Varios codones pueden codificar el mismo aminoácido",
+      "c": "El código es diferente en cada especie",
+      "d": "No tiene codones de parada"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_97",
+    "question": "¿Cuántos aminoácidos diferentes codifica el código genético?",
+    "options": {
+      "a": "4",
+      "b": "20",
+      "c": "64",
+      "d": "100"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_98",
+    "question": "La PCR (reacción en cadena de la polimerasa) permite:",
+    "options": {
+      "a": "Traducir proteínas in vitro",
+      "b": "Amplificar fragmentos específicos de ADN",
+      "c": "Sintetizar ARN",
+      "d": "Destruir virus"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_99",
+    "question": "En un cruce Aa × Aa, ¿qué proporción de la descendencia será homocigota recesiva?",
+    "options": {
+      "a": "1/2",
+      "b": "1/4",
+      "c": "3/4",
+      "d": "0"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_100",
+    "question": "¿Qué tipo de mutación implica la pérdida de un fragmento de cromosoma?",
+    "options": {
+      "a": "Duplicación",
+      "b": "Deleción",
+      "c": "Translocación",
+      "d": "Inversión"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_101",
+    "question": "La epigenética estudia:",
+    "options": {
+      "a": "Los cambios en la secuencia del ADN",
+      "b": "Los cambios heredables en la expresión génica sin cambios en la secuencia de ADN",
+      "c": "La estructura de los ribosomas",
+      "d": "La evolución de las especies"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_102",
+    "question": "¿Qué es un alelo?",
+    "options": {
+      "a": "Un cromosoma",
+      "b": "Cada una de las variantes de un gen para un mismo carácter",
+      "c": "Un tipo de ARN",
+      "d": "Una proteína"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_103",
+    "question": "Los codones de parada (stop) son:",
+    "options": {
+      "a": "AUG, GUG, CUG",
+      "b": "UAA, UAG, UGA",
+      "c": "AAA, GGG, CCC",
+      "d": "AUU, AUC, AUA"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_104",
+    "question": "El crossing-over (entrecruzamiento) ocurre durante:",
+    "options": {
+      "a": "La mitosis",
+      "b": "La profase I de la meiosis",
+      "c": "La fase S",
+      "d": "La citocinesis"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_105",
+    "question": "¿Qué es un organismo transgénico?",
+    "options": {
+      "a": "Un organismo que ha sufrido una mutación natural",
+      "b": "Un organismo al que se le ha introducido un gen de otra especie",
+      "c": "Un organismo clonado",
+      "d": "Un organismo con más cromosomas de lo normal"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_106",
+    "question": "La hemofilia es un trastorno que se hereda de forma:",
+    "options": {
+      "a": "Autosómica dominante",
+      "b": "Recesiva ligada al cromosoma X",
+      "c": "Autosómica recesiva",
+      "d": "Dominante ligada al Y"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_107",
+    "question": "¿Qué función tiene el ARN transferente (ARNt)?",
+    "options": {
+      "a": "Llevar la información genética al ribosoma",
+      "b": "Transportar aminoácidos al ribosoma durante la traducción",
+      "c": "Formar la estructura del ribosoma",
+      "d": "Regular la expresión génica"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_108",
+    "question": "La tercera ley de Mendel (transmisión independiente) se aplica cuando los genes están:",
+    "options": {
+      "a": "En el mismo cromosoma",
+      "b": "En cromosomas diferentes",
+      "c": "Ligados",
+      "d": "En el ADN mitocondrial"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_109",
+    "question": "La técnica CRISPR-Cas9 se utiliza para:",
+    "options": {
+      "a": "Amplificar ADN",
+      "b": "Editar genes de forma precisa",
+      "c": "Secuenciar proteínas",
+      "d": "Cultivar bacterias"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_110",
+    "question": "¿Qué establece el dogma central de la biología molecular?",
+    "options": {
+      "a": "Que toda célula proviene de otra célula",
+      "b": "Que la información fluye del ADN al ARN y del ARN a las proteínas",
+      "c": "Que los organismos evolucionan por selección natural",
+      "d": "Que la energía no se crea ni se destruye"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_111",
+    "question": "Un individuo con genotipo XᵃY para un gen recesivo ligado al X:",
+    "options": {
+      "a": "Es portador sano",
+      "b": "Manifiesta la enfermedad",
+      "c": "Es completamente sano",
+      "d": "Es heterocigoto"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_112",
+    "question": "La aneuploidía se refiere a:",
+    "options": {
+      "a": "Un cambio en un solo nucleótido",
+      "b": "Una alteración en el número de cromosomas individuales (no múltiplo exacto del haploide)",
+      "c": "Una mutación génica",
+      "d": "La duplicación de todo el genoma"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_113",
+    "question": "¿Quién demostró experimentalmente que el ADN es el material genético mediante transformación bacteriana?",
+    "options": {
+      "a": "Watson y Crick",
+      "b": "Avery, MacLeod y McCarty",
+      "c": "Mendel",
+      "d": "Darwin"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_114",
+    "question": "La complementariedad de bases en el ADN establece que:",
+    "options": {
+      "a": "A se empareja con G y C con T",
+      "b": "A se empareja con T y G con C",
+      "c": "A se empareja con C y G con T",
+      "d": "Todas las bases se emparejan entre sí"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_115",
+    "question": "En la codominancia:",
+    "options": {
+      "a": "Un alelo domina completamente sobre el otro",
+      "b": "Ambos alelos se expresan simultáneamente en el heterocigoto",
+      "c": "El heterocigoto tiene un fenotipo intermedio",
+      "d": "Ningún alelo se expresa"
+    },
+    "correct": "b",
+    "topic": "Genética"
+  },
+  {
+    "id": "bio_116",
+    "question": "Los virus se caracterizan por:",
+    "options": {
+      "a": "Ser organismos celulares",
+      "b": "Ser parásitos intracelulares obligados con ácido nucleico y cápside proteica",
+      "c": "Tener metabolismo propio",
+      "d": "Reproducirse por bipartición"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_117",
+    "question": "Las bacterias se clasifican según su forma en:",
+    "options": {
+      "a": "Solo cocos y bacilos",
+      "b": "Cocos, bacilos, espirilos y vibrios",
+      "c": "Solo esféricas y alargadas",
+      "d": "Cuadradas y triangulares"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_118",
+    "question": "¿Qué estructura tienen las bacterias que no tienen las células eucariotas?",
+    "options": {
+      "a": "Ribosomas",
+      "b": "Pared celular de peptidoglicano (mureína)",
+      "c": "ADN",
+      "d": "Membrana plasmática"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_119",
+    "question": "Los antibióticos actúan contra:",
+    "options": {
+      "a": "Virus",
+      "b": "Bacterias",
+      "c": "Priones",
+      "d": "Todos los patógenos por igual"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_120",
+    "question": "Un bacteriófago es:",
+    "options": {
+      "a": "Una bacteria que come otras bacterias",
+      "b": "Un virus que infecta bacterias",
+      "c": "Un hongo parásito de bacterias",
+      "d": "Un protozoo"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_121",
+    "question": "La tinción de Gram permite clasificar las bacterias en:",
+    "options": {
+      "a": "Aerobias y anaerobias",
+      "b": "Gram positivas y Gram negativas según la composición de su pared",
+      "c": "Autótrofas y heterótrofas",
+      "d": "Patógenas y no patógenas"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_122",
+    "question": "¿Qué es un plásmido?",
+    "options": {
+      "a": "Un orgánulo bacteriano",
+      "b": "Una molécula circular de ADN extracromosómico en bacterias",
+      "c": "Un tipo de virus",
+      "d": "Un ribosoma bacteriano"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_123",
+    "question": "Los retrovirus se caracterizan por:",
+    "options": {
+      "a": "Tener ADN como material genético",
+      "b": "Tener ARN y la enzima transcriptasa inversa que lo convierte en ADN",
+      "c": "No tener material genético",
+      "d": "Infectar solo plantas"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_124",
+    "question": "El VIH es un ejemplo de:",
+    "options": {
+      "a": "Bacteria",
+      "b": "Retrovirus",
+      "c": "Hongo",
+      "d": "Prión"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_125",
+    "question": "Las bacterias se reproducen asexualmente por:",
+    "options": {
+      "a": "Meiosis",
+      "b": "Fisión binaria (bipartición)",
+      "c": "Gemación",
+      "d": "Esporulación exclusivamente"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_126",
+    "question": "¿Qué son los priones?",
+    "options": {
+      "a": "Virus muy pequeños",
+      "b": "Proteínas infecciosas con plegamiento anómalo que causan enfermedades neurodegenerativas",
+      "c": "Bacterias sin pared",
+      "d": "Hongos unicelulares"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_127",
+    "question": "La conjugación bacteriana es:",
+    "options": {
+      "a": "Un tipo de reproducción sexual",
+      "b": "La transferencia de material genético entre bacterias a través de un pilus",
+      "c": "La formación de esporas",
+      "d": "La división celular"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_128",
+    "question": "Los virus pueden tener como material genético:",
+    "options": {
+      "a": "Solo ADN",
+      "b": "ADN o ARN, pero no ambos a la vez",
+      "c": "Solo ARN",
+      "d": "Proteínas"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_129",
+    "question": "¿Qué estructura viral protege al ácido nucleico?",
+    "options": {
+      "a": "La membrana plasmática",
+      "b": "La cápside (formada por capsómeros proteicos)",
+      "c": "La pared celular",
+      "d": "El citoplasma"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_130",
+    "question": "El ciclo lítico de un virus se caracteriza por:",
+    "options": {
+      "a": "La integración del genoma viral en el ADN del hospedador",
+      "b": "La replicación viral seguida de lisis (destrucción) de la célula hospedadora",
+      "c": "La latencia del virus sin replicarse",
+      "d": "La transformación de la bacteria en virus"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_131",
+    "question": "Las endosporas bacterianas son:",
+    "options": {
+      "a": "Formas de reproducción sexual",
+      "b": "Estructuras de resistencia para sobrevivir condiciones adversas",
+      "c": "Orgánulos de movimiento",
+      "d": "Vesículas de secreción"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_132",
+    "question": "Las bacterias Gram positivas se tiñen de color:",
+    "options": {
+      "a": "Rojo/rosa",
+      "b": "Violeta/azul",
+      "c": "Verde",
+      "d": "Amarillo"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_133",
+    "question": "La resistencia a antibióticos en bacterias puede adquirirse por:",
+    "options": {
+      "a": "Solo por mutaciones espontáneas",
+      "b": "Mutaciones y transferencia horizontal de genes (conjugación, transformación, transducción)",
+      "c": "Solo por herencia vertical",
+      "d": "Exposición a la luz solar"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_134",
+    "question": "¿Cuál de los siguientes NO es un mecanismo de variabilidad genética en bacterias?",
+    "options": {
+      "a": "Conjugación",
+      "b": "Meiosis",
+      "c": "Transformación",
+      "d": "Transducción"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_135",
+    "question": "Los virus con envoltura lipídica la obtienen de:",
+    "options": {
+      "a": "Su propia síntesis de lípidos",
+      "b": "La membrana de la célula hospedadora al salir por gemación",
+      "c": "El medio extracelular",
+      "d": "La cápside"
+    },
+    "correct": "b",
+    "topic": "Microbiología"
+  },
+  {
+    "id": "bio_136",
+    "question": "El tejido epitelial se caracteriza por:",
+    "options": {
+      "a": "Tener mucha matriz extracelular",
+      "b": "Células muy unidas entre sí con poca matriz extracelular, cubriendo superficies",
+      "c": "Ser contráctil",
+      "d": "Transmitir impulsos eléctricos"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_137",
+    "question": "¿Cuál es la función principal del tejido conectivo?",
+    "options": {
+      "a": "Contracción muscular",
+      "b": "Soporte, unión y protección de otros tejidos",
+      "c": "Transmisión de impulsos nerviosos",
+      "d": "Secreción de hormonas"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_138",
+    "question": "La hemoglobina se encuentra en:",
+    "options": {
+      "a": "Los leucocitos",
+      "b": "Los eritrocitos (glóbulos rojos)",
+      "c": "Las plaquetas",
+      "d": "El plasma"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_139",
+    "question": "El intercambio gaseoso en los pulmones ocurre en:",
+    "options": {
+      "a": "Los bronquios",
+      "b": "Los alvéolos pulmonares",
+      "c": "La tráquea",
+      "d": "La laringe"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_140",
+    "question": "¿Qué órgano produce la bilis?",
+    "options": {
+      "a": "El páncreas",
+      "b": "El hígado",
+      "c": "La vesícula biliar",
+      "d": "El estómago"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_141",
+    "question": "La unidad funcional del riñón es:",
+    "options": {
+      "a": "El glomérulo",
+      "b": "La nefrona",
+      "c": "El uréter",
+      "d": "La vejiga"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_142",
+    "question": "Las neuronas transmiten el impulso nervioso mediante:",
+    "options": {
+      "a": "Contracción muscular",
+      "b": "Potenciales de acción (impulsos eléctricos) y neurotransmisores",
+      "c": "Hormonas exclusivamente",
+      "d": "Difusión de gases"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_143",
+    "question": "El tejido muscular estriado esquelético es de contracción:",
+    "options": {
+      "a": "Involuntaria",
+      "b": "Voluntaria",
+      "c": "Automática",
+      "d": "Peristáltica"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_144",
+    "question": "¿Qué hormona regula los niveles de glucosa en sangre reduciéndolos?",
+    "options": {
+      "a": "Glucagón",
+      "b": "Insulina",
+      "c": "Adrenalina",
+      "d": "Cortisol"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_145",
+    "question": "La sinapsis es:",
+    "options": {
+      "a": "La división de una neurona",
+      "b": "La unión funcional entre dos neuronas o entre una neurona y una célula efectora",
+      "c": "Un tipo de célula muscular",
+      "d": "Una glándula endocrina"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_146",
+    "question": "El sistema linfático tiene como función:",
+    "options": {
+      "a": "Transportar oxígeno",
+      "b": "Drenar líquido intersticial y participar en la inmunidad",
+      "c": "Producir hormonas exclusivamente",
+      "d": "Digerir alimentos"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_147",
+    "question": "Los linfocitos T se maduran en:",
+    "options": {
+      "a": "La médula ósea",
+      "b": "El timo",
+      "c": "El bazo",
+      "d": "Los ganglios linfáticos"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_148",
+    "question": "¿Qué tipo de tejido forma los tendones?",
+    "options": {
+      "a": "Tejido muscular",
+      "b": "Tejido conectivo denso",
+      "c": "Tejido epitelial",
+      "d": "Tejido nervioso"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_149",
+    "question": "La absorción de nutrientes se realiza principalmente en:",
+    "options": {
+      "a": "El estómago",
+      "b": "El intestino delgado",
+      "c": "El intestino grueso",
+      "d": "El esófago"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_150",
+    "question": "El ventrículo izquierdo del corazón bombea sangre hacia:",
+    "options": {
+      "a": "Los pulmones",
+      "b": "La arteria aorta (circulación sistémica)",
+      "c": "La aurícula derecha",
+      "d": "Las venas cavas"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_151",
+    "question": "Las plaquetas (trombocitos) intervienen en:",
+    "options": {
+      "a": "El transporte de oxígeno",
+      "b": "La coagulación sanguínea",
+      "c": "La producción de anticuerpos",
+      "d": "La fagocitosis"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_152",
+    "question": "El páncreas tiene una función:",
+    "options": {
+      "a": "Solo endocrina",
+      "b": "Mixta: endocrina (insulina, glucagón) y exocrina (enzimas digestivas)",
+      "c": "Solo exocrina",
+      "d": "Solo inmunitaria"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_153",
+    "question": "¿Qué estructura del ojo es responsable de enfocar la imagen?",
+    "options": {
+      "a": "La retina",
+      "b": "El cristalino",
+      "c": "El iris",
+      "d": "La córnea exclusivamente"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_154",
+    "question": "Los anticuerpos son producidos por:",
+    "options": {
+      "a": "Linfocitos T",
+      "b": "Linfocitos B (células plasmáticas)",
+      "c": "Eritrocitos",
+      "d": "Plaquetas"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_155",
+    "question": "El tejido óseo contiene células llamadas:",
+    "options": {
+      "a": "Condrocitos",
+      "b": "Osteocitos",
+      "c": "Fibroblastos",
+      "d": "Adipocitos"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_156",
+    "question": "La mielina en el sistema nervioso permite:",
+    "options": {
+      "a": "Nutrir a las neuronas",
+      "b": "Aumentar la velocidad de conducción del impulso nervioso",
+      "c": "Producir neurotransmisores",
+      "d": "Formar sinapsis"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_157",
+    "question": "La tiroides produce hormonas que regulan:",
+    "options": {
+      "a": "La glucemia",
+      "b": "El metabolismo basal",
+      "c": "La presión arterial exclusivamente",
+      "d": "La digestión"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_158",
+    "question": "¿Cuál es el grupo sanguíneo considerado receptor universal?",
+    "options": {
+      "a": "O negativo",
+      "b": "AB positivo",
+      "c": "A positivo",
+      "d": "B negativo"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_159",
+    "question": "El tejido cartilaginoso se diferencia del óseo porque:",
+    "options": {
+      "a": "Tiene vasos sanguíneos abundantes",
+      "b": "Carece de vasos sanguíneos (avascular) y es más flexible",
+      "c": "Es más duro que el hueso",
+      "d": "Contiene hemoglobina"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_160",
+    "question": "La válvula mitral se encuentra entre:",
+    "options": {
+      "a": "Aurícula derecha y ventrículo derecho",
+      "b": "Aurícula izquierda y ventrículo izquierdo",
+      "c": "Ventrículo izquierdo y aorta",
+      "d": "Ventrículo derecho y arteria pulmonar"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_161",
+    "question": "Las vellosidades intestinales aumentan:",
+    "options": {
+      "a": "La velocidad del tránsito intestinal",
+      "b": "La superficie de absorción de nutrientes",
+      "c": "La producción de bilis",
+      "d": "La secreción de ácido clorhídrico"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_162",
+    "question": "El sistema nervioso autónomo se divide en:",
+    "options": {
+      "a": "Central y periférico",
+      "b": "Simpático y parasimpático",
+      "c": "Somático y visceral",
+      "d": "Aferente y eferente"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_163",
+    "question": "Las células de Schwann producen:",
+    "options": {
+      "a": "Neurotransmisores",
+      "b": "La vaina de mielina en el sistema nervioso periférico",
+      "c": "Hormonas",
+      "d": "Anticuerpos"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_164",
+    "question": "La homeostasis se refiere a:",
+    "options": {
+      "a": "La capacidad de reproducirse",
+      "b": "El mantenimiento del equilibrio interno del organismo",
+      "c": "La evolución de las especies",
+      "d": "El crecimiento celular"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_165",
+    "question": "El donante universal de sangre es el grupo:",
+    "options": {
+      "a": "AB positivo",
+      "b": "O negativo",
+      "c": "A negativo",
+      "d": "B positivo"
+    },
+    "correct": "b",
+    "topic": "Histología y fisiología humana"
+  },
+  {
+    "id": "bio_166",
+    "question": "En un ecosistema, los productores primarios son:",
+    "options": {
+      "a": "Los herbívoros",
+      "b": "Los organismos autótrofos (plantas, algas, ciertas bacterias)",
+      "c": "Los descomponedores",
+      "d": "Los depredadores"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_167",
+    "question": "La selección natural fue propuesta por:",
+    "options": {
+      "a": "Lamarck",
+      "b": "Darwin y Wallace",
+      "c": "Mendel",
+      "d": "Pasteur"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_168",
+    "question": "¿Qué es una cadena trófica?",
+    "options": {
+      "a": "Un ciclo de reproducción",
+      "b": "Una secuencia lineal de organismos donde cada uno se alimenta del anterior",
+      "c": "Un tipo de simbiosis",
+      "d": "Una clasificación taxonómica"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_169",
+    "question": "La teoría de Lamarck proponía que:",
+    "options": {
+      "a": "Los organismos no cambian con el tiempo",
+      "b": "Los caracteres adquiridos durante la vida se heredan (herencia de caracteres adquiridos)",
+      "c": "Solo sobreviven los más fuertes",
+      "d": "Las mutaciones son al azar"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_170",
+    "question": "Los descomponedores en un ecosistema son:",
+    "options": {
+      "a": "Herbívoros",
+      "b": "Organismos que degradan materia orgánica muerta (hongos y bacterias)",
+      "c": "Depredadores",
+      "d": "Plantas"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_171",
+    "question": "La biodiversidad incluye:",
+    "options": {
+      "a": "Solo la diversidad de especies",
+      "b": "Diversidad genética, de especies y de ecosistemas",
+      "c": "Solo la diversidad genética",
+      "d": "Solo el número de individuos"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_172",
+    "question": "¿Qué es la deriva genética?",
+    "options": {
+      "a": "La selección del más apto",
+      "b": "Cambios aleatorios en la frecuencia de alelos en poblaciones pequeñas",
+      "c": "La migración de individuos",
+      "d": "Una mutación dirigida"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_173",
+    "question": "La relación simbiótica en la que ambos organismos se benefician se denomina:",
+    "options": {
+      "a": "Parasitismo",
+      "b": "Mutualismo",
+      "c": "Comensalismo",
+      "d": "Depredación"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_174",
+    "question": "La regla del 10% en ecología se refiere a:",
+    "options": {
+      "a": "El 10% de las especies se extinguen cada año",
+      "b": "Solo aproximadamente el 10% de la energía pasa de un nivel trófico al siguiente",
+      "c": "El 10% de los ecosistemas están protegidos",
+      "d": "Las poblaciones crecen un 10% anual"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_175",
+    "question": "Un nicho ecológico es:",
+    "options": {
+      "a": "El lugar físico donde vive un organismo",
+      "b": "El papel funcional de una especie en su ecosistema (incluye hábitat, alimentación, relaciones)",
+      "c": "Un tipo de ecosistema",
+      "d": "Una categoría taxonómica"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_176",
+    "question": "La especiación alopátrica ocurre cuando:",
+    "options": {
+      "a": "Las poblaciones viven en el mismo lugar",
+      "b": "Las poblaciones se separan por una barrera geográfica",
+      "c": "Los individuos migran",
+      "d": "Hay hibridación"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_177",
+    "question": "¿Qué es la sucesión ecológica?",
+    "options": {
+      "a": "La extinción de especies",
+      "b": "El proceso de cambio gradual en la composición de comunidades biológicas a lo largo del tiempo",
+      "c": "La migración de animales",
+      "d": "La reproducción de plantas"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_178",
+    "question": "Los consumidores secundarios en una cadena trófica son:",
+    "options": {
+      "a": "Las plantas",
+      "b": "Los carnívoros que se alimentan de herbívoros",
+      "c": "Los herbívoros",
+      "d": "Los descomponedores"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_179",
+    "question": "El efecto invernadero es causado por:",
+    "options": {
+      "a": "La destrucción de la capa de ozono exclusivamente",
+      "b": "Gases como CO₂ y metano que retienen calor en la atmósfera",
+      "c": "La lluvia ácida",
+      "d": "La deforestación exclusivamente"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_180",
+    "question": "La evolución convergente se refiere a:",
+    "options": {
+      "a": "Especies emparentadas que divergen",
+      "b": "Especies no emparentadas que desarrollan características similares por presiones selectivas parecidas",
+      "c": "La extinción de especies similares",
+      "d": "La especiación simpátrica"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_181",
+    "question": "El comensalismo es una relación en la que:",
+    "options": {
+      "a": "Ambos organismos se benefician",
+      "b": "Un organismo se beneficia y el otro no se ve afectado",
+      "c": "Un organismo se perjudica",
+      "d": "Ambos se perjudican"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_182",
+    "question": "Las pruebas de la evolución incluyen:",
+    "options": {
+      "a": "Solo el registro fósil",
+      "b": "Registro fósil, anatomía comparada, embriología, bioquímica y biogeografía",
+      "c": "Solo la genética",
+      "d": "Solo la observación directa"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_183",
+    "question": "Los órganos homólogos son aquellos que:",
+    "options": {
+      "a": "Tienen la misma función pero diferente origen",
+      "b": "Tienen el mismo origen embrionario pero pueden tener diferente función",
+      "c": "Son idénticos en todas las especies",
+      "d": "No tienen relación evolutiva"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_184",
+    "question": "La capa de ozono protege de:",
+    "options": {
+      "a": "La lluvia ácida",
+      "b": "La radiación ultravioleta del sol",
+      "c": "El efecto invernadero",
+      "d": "Los meteoritos"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_185",
+    "question": "Una población en biología se define como:",
+    "options": {
+      "a": "Todos los seres vivos de un ecosistema",
+      "b": "Un conjunto de individuos de la misma especie que viven en un área y tiempo determinados",
+      "c": "Un grupo de especies diferentes",
+      "d": "Todos los organismos del planeta"
+    },
+    "correct": "b",
+    "topic": "Ecología y evolución"
+  },
+  {
+    "id": "bio_186",
+    "question": "¿Quién descubrió la penicilina?",
+    "options": {
+      "a": "Louis Pasteur",
+      "b": "Alexander Fleming",
+      "c": "Robert Koch",
+      "d": "Edward Jenner"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_187",
+    "question": "¿Quién es considerado el padre de la genética?",
+    "options": {
+      "a": "Darwin",
+      "b": "Gregor Mendel",
+      "c": "Watson",
+      "d": "Morgan"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_188",
+    "question": "La primera vacuna (contra la viruela) fue desarrollada por:",
+    "options": {
+      "a": "Louis Pasteur",
+      "b": "Edward Jenner",
+      "c": "Robert Koch",
+      "d": "Alexander Fleming"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_189",
+    "question": "¿Quién formuló la teoría de la evolución por selección natural?",
+    "options": {
+      "a": "Lamarck",
+      "b": "Charles Darwin",
+      "c": "Mendel",
+      "d": "Linneo"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_190",
+    "question": "La microscopía y el descubrimiento de las células se atribuyen a:",
+    "options": {
+      "a": "Pasteur",
+      "b": "Robert Hooke",
+      "c": "Mendel",
+      "d": "Darwin"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_191",
+    "question": "¿Quién desarrolló los postulados para identificar al agente causal de una enfermedad infecciosa?",
+    "options": {
+      "a": "Pasteur",
+      "b": "Robert Koch",
+      "c": "Fleming",
+      "d": "Jenner"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_192",
+    "question": "Louis Pasteur es conocido por:",
+    "options": {
+      "a": "Descubrir la penicilina",
+      "b": "Refutar la generación espontánea y desarrollar la pasteurización",
+      "c": "Formular la teoría celular",
+      "d": "Describir la doble hélice del ADN"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_193",
+    "question": "¿Quién propuso el sistema de clasificación binomial (género y especie)?",
+    "options": {
+      "a": "Darwin",
+      "b": "Carlos Linneo",
+      "c": "Lamarck",
+      "d": "Aristóteles"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_194",
+    "question": "Rosalind Franklin contribuyó al descubrimiento de la estructura del ADN mediante:",
+    "options": {
+      "a": "Experimentos de genética con guisantes",
+      "b": "Imágenes de difracción de rayos X del ADN",
+      "c": "La secuenciación del genoma humano",
+      "d": "El descubrimiento de los antibióticos"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_195",
+    "question": "¿Quién descubrió los cromosomas como portadores de los genes?",
+    "options": {
+      "a": "Mendel",
+      "b": "Thomas Hunt Morgan (con Drosophila)",
+      "c": "Darwin",
+      "d": "Pasteur"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_196",
+    "question": "El Proyecto Genoma Humano se completó en:",
+    "options": {
+      "a": "1990",
+      "b": "2003",
+      "c": "2010",
+      "d": "1980"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_197",
+    "question": "¿Quién observó por primera vez microorganismos con un microscopio?",
+    "options": {
+      "a": "Robert Hooke",
+      "b": "Anton van Leeuwenhoek",
+      "c": "Pasteur",
+      "d": "Koch"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_198",
+    "question": "La teoría celular fue formulada por:",
+    "options": {
+      "a": "Darwin y Wallace",
+      "b": "Schleiden, Schwann y Virchow",
+      "c": "Watson y Crick",
+      "d": "Mendel y Morgan"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_199",
+    "question": "¿Qué científica ganó dos Premios Nobel (Física y Química) por sus investigaciones sobre la radioactividad?",
+    "options": {
+      "a": "Rosalind Franklin",
+      "b": "Marie Curie",
+      "c": "Barbara McClintock",
+      "d": "Rita Levi-Montalcini"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  },
+  {
+    "id": "bio_200",
+    "question": "Barbara McClintock recibió el Nobel por descubrir:",
+    "options": {
+      "a": "La estructura del ADN",
+      "b": "Los transposones (elementos genéticos móviles)",
+      "c": "La penicilina",
+      "d": "Las vacunas"
+    },
+    "correct": "b",
+    "topic": "Historia de la biología"
+  }
+]

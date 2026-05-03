@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "chem_1",
+    "question": "¿Cuál es el número atómico del carbono?",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_2",
+    "question": "¿Qué partícula subatómica tiene carga negativa?",
+    "options": {
+      "a": "Protón",
+      "b": "Neutrón",
+      "c": "Electrón",
+      "d": "Positrón"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_3",
+    "question": "¿Qué modelo atómico introdujo los niveles de energía cuantizados?",
+    "options": {
+      "a": "Modelo de Thomson",
+      "b": "Modelo de Rutherford",
+      "c": "Modelo de Bohr",
+      "d": "Modelo de Dalton"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_4",
+    "question": "Un átomo con 11 protones y 12 neutrones tiene un número másico de:",
+    "options": {
+      "a": "11",
+      "b": "12",
+      "c": "23",
+      "d": "1"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_5",
+    "question": "¿Qué son los isótopos?",
+    "options": {
+      "a": "Átomos con distinto número de protones",
+      "b": "Átomos con igual número de protones pero distinto número de neutrones",
+      "c": "Átomos con distinto número de electrones",
+      "d": "Átomos con igual masa atómica"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_6",
+    "question": "La configuración electrónica del sodio (Z=11) es:",
+    "options": {
+      "a": "1s² 2s² 2p⁶ 3s¹",
+      "b": "1s² 2s² 2p⁶ 3p¹",
+      "c": "1s² 2s² 2p⁷",
+      "d": "1s² 2s² 2p⁶ 3s²"
+    },
+    "correct": "a",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_7",
+    "question": "¿Cuántos electrones puede albergar el segundo nivel de energía (n=2)?",
+    "options": {
+      "a": "2",
+      "b": "6",
+      "c": "8",
+      "d": "18"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_8",
+    "question": "El modelo atómico de Thomson se conoce como:",
+    "options": {
+      "a": "Modelo planetario",
+      "b": "Modelo del pudín de pasas",
+      "c": "Modelo nuclear",
+      "d": "Modelo ondulatorio"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_9",
+    "question": "¿Qué experimento llevó a Rutherford a proponer el modelo nuclear del átomo?",
+    "options": {
+      "a": "El experimento de la gota de aceite",
+      "b": "La difracción de electrones",
+      "c": "El bombardeo de láminas de oro con partículas alfa",
+      "d": "El espectro del hidrógeno"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_10",
+    "question": "¿Cuántos electrones hay en un orbital tipo d lleno?",
+    "options": {
+      "a": "2",
+      "b": "6",
+      "c": "10",
+      "d": "14"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_11",
+    "question": "El principio de exclusión de Pauli establece que:",
+    "options": {
+      "a": "Los electrones llenan primero los orbitales de menor energía",
+      "b": "No puede haber dos electrones con los cuatro números cuánticos iguales en un átomo",
+      "c": "Los electrones se distribuyen con espines paralelos en orbitales degenerados",
+      "d": "Es imposible conocer simultáneamente posición y velocidad de un electrón"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_12",
+    "question": "¿Cuál es la configuración electrónica del ion Cl⁻ (Z=17)?",
+    "options": {
+      "a": "1s² 2s² 2p⁶ 3s² 3p⁵",
+      "b": "1s² 2s² 2p⁶ 3s² 3p⁶",
+      "c": "1s² 2s² 2p⁶ 3s² 3p⁴",
+      "d": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_13",
+    "question": "El número cuántico principal (n) indica:",
+    "options": {
+      "a": "La forma del orbital",
+      "b": "La orientación espacial del orbital",
+      "c": "El nivel de energía del electrón",
+      "d": "El sentido de giro del electrón"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_14",
+    "question": "¿Cuántos orbitales tiene un subnivel p?",
+    "options": {
+      "a": "1",
+      "b": "3",
+      "c": "5",
+      "d": "7"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_15",
+    "question": "El isótopo ¹⁴C tiene:",
+    "options": {
+      "a": "6 protones y 6 neutrones",
+      "b": "6 protones y 8 neutrones",
+      "c": "8 protones y 6 neutrones",
+      "d": "7 protones y 7 neutrones"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_16",
+    "question": "La regla de Hund establece que:",
+    "options": {
+      "a": "Los electrones se emparejan antes de ocupar orbitales vacíos",
+      "b": "Los electrones ocupan orbitales degenerados con espines paralelos antes de emparejarse",
+      "c": "No puede haber más de dos electrones en un orbital",
+      "d": "Los orbitales se llenan en orden creciente de energía"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_17",
+    "question": "¿Qué partícula descubrió Chadwick en 1932?",
+    "options": {
+      "a": "El electrón",
+      "b": "El protón",
+      "c": "El neutrón",
+      "d": "El positrón"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_18",
+    "question": "Un átomo neutro tiene 20 electrones. ¿A qué elemento corresponde?",
+    "options": {
+      "a": "Potasio",
+      "b": "Calcio",
+      "c": "Argón",
+      "d": "Escandio"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_19",
+    "question": "¿Cuál es el número máximo de electrones en un subnivel f?",
+    "options": {
+      "a": "6",
+      "b": "10",
+      "c": "14",
+      "d": "18"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_20",
+    "question": "El principio de incertidumbre fue enunciado por:",
+    "options": {
+      "a": "Bohr",
+      "b": "De Broglie",
+      "c": "Heisenberg",
+      "d": "Schrödinger"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_21",
+    "question": "¿Cuál es la configuración electrónica del hierro (Z=26)?",
+    "options": {
+      "a": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶",
+      "b": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸",
+      "c": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴",
+      "d": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁷"
+    },
+    "correct": "a",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_22",
+    "question": "¿Qué modelo atómico propone que el electrón se comporta como una onda estacionaria?",
+    "options": {
+      "a": "Modelo de Bohr",
+      "b": "Modelo mecánico-cuántico",
+      "c": "Modelo de Rutherford",
+      "d": "Modelo de Sommerfeld"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_23",
+    "question": "El ion Na⁺ tiene la misma configuración electrónica que:",
+    "options": {
+      "a": "El argón",
+      "b": "El neón",
+      "c": "El flúor",
+      "d": "El magnesio"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_24",
+    "question": "¿Cuántos protones tiene el oxígeno-18?",
+    "options": {
+      "a": "18",
+      "b": "10",
+      "c": "8",
+      "d": "16"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_25",
+    "question": "Si un átomo tiene Z=15, ¿cuántos electrones desapareados tiene en su estado fundamental?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_26",
+    "question": "¿Cuál fue la principal limitación del modelo de Bohr?",
+    "options": {
+      "a": "No explicaba la existencia del núcleo",
+      "b": "Solo funcionaba correctamente para átomos con un electrón",
+      "c": "No incluía el concepto de órbita",
+      "d": "No explicaba la carga del protón"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_27",
+    "question": "¿Qué valores puede tomar el número cuántico magnético (mₗ) para l=2?",
+    "options": {
+      "a": "-1, 0, +1",
+      "b": "-2, -1, 0, +1, +2",
+      "c": "0, 1, 2",
+      "d": "-3, -2, -1, 0, +1, +2, +3"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_28",
+    "question": "La masa del electrón es aproximadamente:",
+    "options": {
+      "a": "1 uma",
+      "b": "1/1836 de la masa del protón",
+      "c": "Igual a la masa del neutrón",
+      "d": "2 uma"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_29",
+    "question": "¿Qué tipo de espectro produce un gas a baja presión cuando se excita?",
+    "options": {
+      "a": "Espectro continuo",
+      "b": "Espectro de absorción",
+      "c": "Espectro de emisión de líneas",
+      "d": "Espectro de bandas"
+    },
+    "correct": "c",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_30",
+    "question": "¿Cuál es la configuración electrónica del catión Fe²⁺ (Z=26)?",
+    "options": {
+      "a": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴",
+      "b": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶",
+      "c": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁵",
+      "d": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴"
+    },
+    "correct": "b",
+    "topic": "Estructura atómica"
+  },
+  {
+    "id": "chem_31",
+    "question": "Los elementos del grupo 1 de la tabla periódica se denominan:",
+    "options": {
+      "a": "Alcalinotérreos",
+      "b": "Halógenos",
+      "c": "Metales alcalinos",
+      "d": "Gases nobles"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_32",
+    "question": "¿Qué propiedad aumenta de izquierda a derecha en un periodo?",
+    "options": {
+      "a": "Radio atómico",
+      "b": "Carácter metálico",
+      "c": "Electronegatividad",
+      "d": "Volumen atómico"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_33",
+    "question": "¿En qué grupo se encuentran los halógenos?",
+    "options": {
+      "a": "Grupo 1",
+      "b": "Grupo 2",
+      "c": "Grupo 17",
+      "d": "Grupo 18"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_34",
+    "question": "¿Cuál de estos elementos tiene mayor electronegatividad?",
+    "options": {
+      "a": "Oxígeno",
+      "b": "Flúor",
+      "c": "Nitrógeno",
+      "d": "Cloro"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_35",
+    "question": "El radio atómico aumenta al descender en un grupo porque:",
+    "options": {
+      "a": "Aumenta la carga nuclear efectiva",
+      "b": "Se añaden niveles de energía",
+      "c": "Disminuye el número de electrones",
+      "d": "Aumenta la electronegatividad"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_36",
+    "question": "¿Qué elemento tiene la configuración [Ar] 4s² 3d¹⁰ 4p⁵?",
+    "options": {
+      "a": "Selenio",
+      "b": "Bromo",
+      "c": "Arsénico",
+      "d": "Kriptón"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_37",
+    "question": "Los gases nobles se caracterizan por:",
+    "options": {
+      "a": "Tener alta reactividad",
+      "b": "Tener la capa de valencia completa",
+      "c": "Ser todos radiactivos",
+      "d": "Formar cationes fácilmente"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_38",
+    "question": "¿Qué propiedad periódica mide la energía necesaria para arrancar un electrón de un átomo gaseoso?",
+    "options": {
+      "a": "Afinidad electrónica",
+      "b": "Electronegatividad",
+      "c": "Energía de ionización",
+      "d": "Radio iónico"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_39",
+    "question": "¿Cuál de estos elementos es un metal de transición?",
+    "options": {
+      "a": "Calcio",
+      "b": "Aluminio",
+      "c": "Hierro",
+      "d": "Estaño"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_40",
+    "question": "¿Cuántos elementos hay en el segundo periodo de la tabla periódica?",
+    "options": {
+      "a": "2",
+      "b": "8",
+      "c": "18",
+      "d": "32"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_41",
+    "question": "Ordena de mayor a menor radio atómico: Li, Na, K",
+    "options": {
+      "a": "Li > Na > K",
+      "b": "Na > Li > K",
+      "c": "K > Na > Li",
+      "d": "K > Li > Na"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_42",
+    "question": "¿Qué grupo de la tabla periódica contiene los alcalinotérreos?",
+    "options": {
+      "a": "Grupo 1",
+      "b": "Grupo 2",
+      "c": "Grupo 13",
+      "d": "Grupo 16"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_43",
+    "question": "La afinidad electrónica es:",
+    "options": {
+      "a": "La energía liberada al ganar un electrón un átomo gaseoso",
+      "b": "La energía necesaria para ionizar un átomo",
+      "c": "La capacidad de atraer electrones en un enlace",
+      "d": "La distancia entre el núcleo y el electrón más externo"
+    },
+    "correct": "a",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_44",
+    "question": "¿Cuál de estos elementos es un no metal?",
+    "options": {
+      "a": "Sodio",
+      "b": "Calcio",
+      "c": "Azufre",
+      "d": "Aluminio"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_45",
+    "question": "¿Qué elemento tiene mayor energía de primera ionización?",
+    "options": {
+      "a": "Sodio",
+      "b": "Magnesio",
+      "c": "Neón",
+      "d": "Flúor"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_46",
+    "question": "Los elementos del bloque d se caracterizan por:",
+    "options": {
+      "a": "Llenar orbitales s",
+      "b": "Llenar orbitales p",
+      "c": "Llenar orbitales d",
+      "d": "Llenar orbitales f"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_47",
+    "question": "¿Cuál es el elemento más electronegativo de la tabla periódica según la escala de Pauling?",
+    "options": {
+      "a": "Oxígeno",
+      "b": "Cloro",
+      "c": "Nitrógeno",
+      "d": "Flúor"
+    },
+    "correct": "d",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_48",
+    "question": "Un elemento con configuración electrónica terminada en ns² np⁴ pertenece al grupo:",
+    "options": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_49",
+    "question": "¿Cuál de los siguientes es un semimetal (metaloide)?",
+    "options": {
+      "a": "Carbono",
+      "b": "Silicio",
+      "c": "Fósforo",
+      "d": "Azufre"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_50",
+    "question": "¿Cuál tiene menor radio iónico?",
+    "options": {
+      "a": "O²⁻",
+      "b": "F⁻",
+      "c": "Na⁺",
+      "d": "Mg²⁺"
+    },
+    "correct": "d",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_51",
+    "question": "La primera energía de ionización del litio es menor que la del helio porque:",
+    "options": {
+      "a": "El litio tiene más protones",
+      "b": "El electrón 2s del litio está más lejos del núcleo y más apantallado",
+      "c": "El helio tiene menos electrones",
+      "d": "El litio es un gas noble"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_52",
+    "question": "¿Qué periodo de la tabla periódica contiene 18 elementos?",
+    "options": {
+      "a": "Periodo 2",
+      "b": "Periodo 3",
+      "c": "Periodo 4",
+      "d": "Periodo 6"
+    },
+    "correct": "c",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_53",
+    "question": "Los lantánidos pertenecen al bloque:",
+    "options": {
+      "a": "s",
+      "b": "p",
+      "c": "d",
+      "d": "f"
+    },
+    "correct": "d",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_54",
+    "question": "¿Cuál de estos pares son elementos del mismo grupo?",
+    "options": {
+      "a": "Na y Mg",
+      "b": "C y Si",
+      "c": "N y O",
+      "d": "Fe y Cu"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_55",
+    "question": "El carácter metálico en la tabla periódica:",
+    "options": {
+      "a": "Aumenta hacia la derecha y hacia arriba",
+      "b": "Aumenta hacia la izquierda y hacia abajo",
+      "c": "Es constante en un periodo",
+      "d": "Solo depende del número de electrones"
+    },
+    "correct": "b",
+    "topic": "Tabla periódica"
+  },
+  {
+    "id": "chem_56",
+    "question": "En un enlace iónico se produce:",
+    "options": {
+      "a": "Compartición de electrones",
+      "b": "Transferencia de electrones de un átomo a otro",
+      "c": "Formación de una nube electrónica deslocalizada",
+      "d": "Atracción entre moléculas polares"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_57",
+    "question": "¿Qué tipo de enlace se forma entre dos átomos de cloro?",
+    "options": {
+      "a": "Iónico",
+      "b": "Covalente apolar",
+      "c": "Covalente polar",
+      "d": "Metálico"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_58",
+    "question": "La geometría molecular del metano (CH₄) según la TRPECV es:",
+    "options": {
+      "a": "Lineal",
+      "b": "Trigonal plana",
+      "c": "Tetraédrica",
+      "d": "Piramidal"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_59",
+    "question": "¿Cuál de las siguientes sustancias presenta enlace metálico?",
+    "options": {
+      "a": "NaCl",
+      "b": "H₂O",
+      "c": "Fe",
+      "d": "CO₂"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_60",
+    "question": "Las fuerzas de Van der Waals son:",
+    "options": {
+      "a": "Fuerzas intramoleculares muy fuertes",
+      "b": "Fuerzas intermoleculares débiles",
+      "c": "Enlaces covalentes polares",
+      "d": "Fuerzas nucleares"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_61",
+    "question": "¿Qué geometría tiene la molécula de agua (H₂O)?",
+    "options": {
+      "a": "Lineal",
+      "b": "Angular",
+      "c": "Tetraédrica",
+      "d": "Trigonal plana"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_62",
+    "question": "El enlace de hidrógeno se produce cuando el hidrógeno está unido a:",
+    "options": {
+      "a": "Cualquier no metal",
+      "b": "Átomos muy electronegativos como F, O o N",
+      "c": "Metales de transición",
+      "d": "Carbono exclusivamente"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_63",
+    "question": "Un compuesto iónico en estado sólido:",
+    "options": {
+      "a": "Conduce bien la electricidad",
+      "b": "No conduce la electricidad",
+      "c": "Es blando y maleable",
+      "d": "Tiene bajo punto de fusión"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_64",
+    "question": "¿Cuántos pares de electrones no enlazantes tiene el nitrógeno en el amoniaco (NH₃)?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_65",
+    "question": "La molécula de CO₂ es apolar porque:",
+    "options": {
+      "a": "No tiene enlaces polares",
+      "b": "Es lineal y los momentos dipolares se cancelan",
+      "c": "Tiene geometría angular",
+      "d": "El carbono no es electronegativo"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_66",
+    "question": "¿Qué tipo de sólido es el diamante?",
+    "options": {
+      "a": "Sólido iónico",
+      "b": "Sólido molecular",
+      "c": "Sólido covalente (atómico)",
+      "d": "Sólido metálico"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_67",
+    "question": "Los metales son buenos conductores eléctricos porque:",
+    "options": {
+      "a": "Tienen electrones localizados",
+      "b": "Poseen una nube de electrones deslocalizados",
+      "c": "Forman enlaces covalentes",
+      "d": "Tienen alta electronegatividad"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_68",
+    "question": "¿Cuál de estas moléculas es polar?",
+    "options": {
+      "a": "CO₂",
+      "b": "CH₄",
+      "c": "NH₃",
+      "d": "CCl₄"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_69",
+    "question": "Un enlace covalente doble consiste en:",
+    "options": {
+      "a": "Dos pares de electrones compartidos",
+      "b": "Un par de electrones compartido",
+      "c": "Transferencia de dos electrones",
+      "d": "Dos enlaces iónicos"
+    },
+    "correct": "a",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_70",
+    "question": "La hibridación del carbono en el eteno (C₂H₄) es:",
+    "options": {
+      "a": "sp",
+      "b": "sp²",
+      "c": "sp³",
+      "d": "No está hibridado"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_71",
+    "question": "¿Qué compuesto tiene mayor punto de ebullición?",
+    "options": {
+      "a": "CH₄",
+      "b": "NH₃",
+      "c": "H₂O",
+      "d": "HF"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_72",
+    "question": "El enlace covalente coordinado (dativo) se diferencia del covalente normal en que:",
+    "options": {
+      "a": "Es más fuerte",
+      "b": "Los dos electrones del par compartido los aporta el mismo átomo",
+      "c": "Solo se da entre metales",
+      "d": "No comparte electrones"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_73",
+    "question": "¿Cuál es la geometría del BF₃ según la TRPECV?",
+    "options": {
+      "a": "Tetraédrica",
+      "b": "Piramidal trigonal",
+      "c": "Trigonal plana",
+      "d": "Lineal"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_74",
+    "question": "¿Qué propiedad es característica de los compuestos con enlace covalente molecular?",
+    "options": {
+      "a": "Alto punto de fusión",
+      "b": "Conducen electricidad en disolución",
+      "c": "Bajo punto de fusión y ebullición",
+      "d": "Son muy duros"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_75",
+    "question": "La estructura de Lewis del O₂ muestra:",
+    "options": {
+      "a": "Un enlace simple",
+      "b": "Un enlace doble",
+      "c": "Un enlace triple",
+      "d": "Un enlace iónico"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_76",
+    "question": "Las fuerzas de London son más intensas cuando:",
+    "options": {
+      "a": "La molécula es más pequeña",
+      "b": "La molécula es más polarizable (mayor tamaño)",
+      "c": "La molécula tiene enlaces de hidrógeno",
+      "d": "La molécula es iónica"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_77",
+    "question": "¿Cuál de estos compuestos es iónico?",
+    "options": {
+      "a": "HCl",
+      "b": "CO₂",
+      "c": "KBr",
+      "d": "H₂O"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_78",
+    "question": "El ángulo de enlace en una molécula con geometría tetraédrica es aproximadamente:",
+    "options": {
+      "a": "90°",
+      "b": "109,5°",
+      "c": "120°",
+      "d": "180°"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_79",
+    "question": "La hibridación sp corresponde a una geometría:",
+    "options": {
+      "a": "Lineal",
+      "b": "Trigonal plana",
+      "c": "Tetraédrica",
+      "d": "Octaédrica"
+    },
+    "correct": "a",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_80",
+    "question": "¿Cuántos enlaces sigma y pi tiene el nitrógeno molecular (N₂)?",
+    "options": {
+      "a": "1 sigma y 1 pi",
+      "b": "1 sigma y 2 pi",
+      "c": "2 sigma y 1 pi",
+      "d": "3 sigma y 0 pi"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_81",
+    "question": "¿Cuál es la fórmula del ácido nítrico?",
+    "options": {
+      "a": "HNO₂",
+      "b": "HNO₃",
+      "c": "H₂NO₃",
+      "d": "HN₃"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_82",
+    "question": "Un enlace covalente polar se forma entre átomos con:",
+    "options": {
+      "a": "Igual electronegatividad",
+      "b": "Diferencia de electronegatividad muy grande",
+      "c": "Diferencia de electronegatividad moderada",
+      "d": "Electronegatividad cero"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_83",
+    "question": "La red cristalina del NaCl tiene estructura:",
+    "options": {
+      "a": "Cúbica centrada en el cuerpo",
+      "b": "Cúbica centrada en las caras",
+      "c": "Hexagonal compacta",
+      "d": "Cúbica simple"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_84",
+    "question": "¿Por qué el agua tiene un punto de ebullición anormalmente alto?",
+    "options": {
+      "a": "Por su masa molecular elevada",
+      "b": "Por los enlaces de hidrógeno entre sus moléculas",
+      "c": "Por su enlace covalente fuerte",
+      "d": "Por las fuerzas de London"
+    },
+    "correct": "b",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_85",
+    "question": "¿Cuál es la geometría de la molécula SF₆?",
+    "options": {
+      "a": "Tetraédrica",
+      "b": "Bipiramidal trigonal",
+      "c": "Octaédrica",
+      "d": "Cuadrada plana"
+    },
+    "correct": "c",
+    "topic": "Enlace químico"
+  },
+  {
+    "id": "chem_86",
+    "question": "¿Cuál es la fórmula del óxido de hierro (III)?",
+    "options": {
+      "a": "FeO",
+      "b": "Fe₂O₃",
+      "c": "Fe₃O₄",
+      "d": "FeO₃"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_87",
+    "question": "El nombre IUPAC del HCl es:",
+    "options": {
+      "a": "Ácido clorhídrico",
+      "b": "Cloruro de hidrógeno",
+      "c": "Hidruro de cloro",
+      "d": "Ácido hipocloroso"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_88",
+    "question": "¿Cuál es la fórmula del sulfato de sodio?",
+    "options": {
+      "a": "NaSO₄",
+      "b": "Na₂SO₃",
+      "c": "Na₂SO₄",
+      "d": "NaSO₃"
+    },
+    "correct": "c",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_89",
+    "question": "El nombre del compuesto CaH₂ es:",
+    "options": {
+      "a": "Hidruro de calcio",
+      "b": "Dihidruro de calcio",
+      "c": "Ambos son correctos",
+      "d": "Hidrato de calcio"
+    },
+    "correct": "c",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_90",
+    "question": "¿Cuál es la fórmula del ácido sulfúrico?",
+    "options": {
+      "a": "H₂SO₃",
+      "b": "H₂SO₄",
+      "c": "HSO₄",
+      "d": "H₂S₂O₇"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_91",
+    "question": "El nombre del compuesto P₂O₅ en nomenclatura sistemática es:",
+    "options": {
+      "a": "Óxido de fósforo (V)",
+      "b": "Pentaóxido de difósforo",
+      "c": "Anhídrido fosfórico",
+      "d": "Óxido fosfórico"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_92",
+    "question": "¿Cuál es la fórmula del hidróxido de aluminio?",
+    "options": {
+      "a": "AlOH",
+      "b": "Al(OH)₂",
+      "c": "Al(OH)₃",
+      "d": "Al₂(OH)₃"
+    },
+    "correct": "c",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_93",
+    "question": "El nombre del compuesto NaHCO₃ es:",
+    "options": {
+      "a": "Carbonato de sodio",
+      "b": "Bicarbonato de sodio (hidrogenocarbonato de sodio)",
+      "c": "Carbonito de sodio",
+      "d": "Percarbonato de sodio"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_94",
+    "question": "¿Cuál es la fórmula del nitrato de plata?",
+    "options": {
+      "a": "AgNO₂",
+      "b": "AgNO₃",
+      "c": "Ag₂NO₃",
+      "d": "Ag(NO₃)₂"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_95",
+    "question": "El nombre del compuesto CuSO₄ es:",
+    "options": {
+      "a": "Sulfato de cobre (I)",
+      "b": "Sulfato de cobre (II)",
+      "c": "Sulfito de cobre",
+      "d": "Sulfuro de cobre"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_96",
+    "question": "¿Cuál es la fórmula del ácido fosfórico?",
+    "options": {
+      "a": "H₃PO₃",
+      "b": "H₃PO₄",
+      "c": "HPO₄",
+      "d": "H₂PO₄"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_97",
+    "question": "El nombre del compuesto KMnO₄ es:",
+    "options": {
+      "a": "Manganato de potasio",
+      "b": "Permanganato de potasio",
+      "c": "Óxido de manganeso y potasio",
+      "d": "Manganito de potasio"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_98",
+    "question": "¿Cuál es la fórmula del cloruro de hierro (III)?",
+    "options": {
+      "a": "FeCl₂",
+      "b": "FeCl₃",
+      "c": "Fe₂Cl₃",
+      "d": "Fe₃Cl"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_99",
+    "question": "El ácido carbónico tiene la fórmula:",
+    "options": {
+      "a": "H₂CO₂",
+      "b": "HCO₃",
+      "c": "H₂CO₃",
+      "d": "CH₂O₃"
+    },
+    "correct": "c",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_100",
+    "question": "¿Cuál es la nomenclatura Stock del SnO₂?",
+    "options": {
+      "a": "Óxido de estaño (II)",
+      "b": "Óxido de estaño (IV)",
+      "c": "Dióxido de estaño",
+      "d": "Óxido estánnico"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_101",
+    "question": "La fórmula del fosfato de calcio es:",
+    "options": {
+      "a": "CaPO₄",
+      "b": "Ca₃(PO₄)₂",
+      "c": "Ca₂(PO₄)₃",
+      "d": "Ca(PO₄)₂"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_102",
+    "question": "¿Cuál es el nombre del compuesto N₂O₃?",
+    "options": {
+      "a": "Trióxido de dinitrógeno",
+      "b": "Óxido nítrico",
+      "c": "Óxido de nitrógeno (III)",
+      "d": "a y c son correctas"
+    },
+    "correct": "d",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_103",
+    "question": "El nombre del compuesto Ca(ClO)₂ es:",
+    "options": {
+      "a": "Clorato de calcio",
+      "b": "Hipoclorito de calcio",
+      "c": "Clorito de calcio",
+      "d": "Perclorato de calcio"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_104",
+    "question": "¿Cuál es la fórmula del peróxido de hidrógeno?",
+    "options": {
+      "a": "H₂O",
+      "b": "H₂O₂",
+      "c": "HO₂",
+      "d": "H₂O₃"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_105",
+    "question": "La fórmula del ácido perclórico es:",
+    "options": {
+      "a": "HClO",
+      "b": "HClO₂",
+      "c": "HClO₃",
+      "d": "HClO₄"
+    },
+    "correct": "d",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_106",
+    "question": "El nombre sistemático del compuesto Fe₂O₃ es:",
+    "options": {
+      "a": "Dióxido de hierro",
+      "b": "Trióxido de dihierro",
+      "c": "Óxido de hierro (II)",
+      "d": "Óxido ferroso"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_107",
+    "question": "¿Cuál es la fórmula del cromato de potasio?",
+    "options": {
+      "a": "K₂Cr₂O₇",
+      "b": "KCrO₄",
+      "c": "K₂CrO₄",
+      "d": "KCr₂O₇"
+    },
+    "correct": "c",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_108",
+    "question": "El hidruro de sodio tiene la fórmula:",
+    "options": {
+      "a": "NaOH",
+      "b": "NaH",
+      "c": "Na₂H",
+      "d": "NaH₂"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_109",
+    "question": "¿Cuál es el nombre del compuesto PbO₂?",
+    "options": {
+      "a": "Óxido de plomo (II)",
+      "b": "Óxido de plomo (IV)",
+      "c": "Peróxido de plomo",
+      "d": "Dióxido de plomo"
+    },
+    "correct": "b",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_110",
+    "question": "La fórmula del sulfuro de hidrógeno es:",
+    "options": {
+      "a": "H₂S",
+      "b": "HS₂",
+      "c": "H₂SO₃",
+      "d": "HSO₄"
+    },
+    "correct": "a",
+    "topic": "Formulación y nomenclatura"
+  },
+  {
+    "id": "chem_111",
+    "question": "¿Cuántos moles de agua hay en 36 g de H₂O?",
+    "options": {
+      "a": "1 mol",
+      "b": "2 moles",
+      "c": "0,5 moles",
+      "d": "18 moles"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_112",
+    "question": "El número de Avogadro es aproximadamente:",
+    "options": {
+      "a": "6,022 × 10²⁰",
+      "b": "6,022 × 10²³",
+      "c": "6,022 × 10²⁶",
+      "d": "3,011 × 10²³"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_113",
+    "question": "En la reacción 2H₂ + O₂ → 2H₂O, ¿cuántos moles de agua se producen a partir de 4 moles de H₂?",
+    "options": {
+      "a": "2 moles",
+      "b": "4 moles",
+      "c": "8 moles",
+      "d": "1 mol"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_114",
+    "question": "La masa molar del ácido sulfúrico (H₂SO₄) es:",
+    "options": {
+      "a": "96 g/mol",
+      "b": "98 g/mol",
+      "c": "100 g/mol",
+      "d": "80 g/mol"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_115",
+    "question": "¿Cuántos átomos hay en 2 moles de helio?",
+    "options": {
+      "a": "6,022 × 10²³",
+      "b": "12,044 × 10²³",
+      "c": "3,011 × 10²³",
+      "d": "24,088 × 10²³"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_116",
+    "question": "En la reacción N₂ + 3H₂ → 2NH₃, el reactivo limitante cuando se mezclan 1 mol de N₂ y 4 moles de H₂ es:",
+    "options": {
+      "a": "N₂",
+      "b": "H₂",
+      "c": "NH₃",
+      "d": "Ambos se consumen completamente"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_117",
+    "question": "El volumen molar de un gas ideal en condiciones normales (0°C, 1 atm) es:",
+    "options": {
+      "a": "11,2 L",
+      "b": "22,4 L",
+      "c": "44,8 L",
+      "d": "1 L"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_118",
+    "question": "Ajusta la reacción: __Fe + __O₂ → __Fe₂O₃. Los coeficientes son:",
+    "options": {
+      "a": "2, 1, 1",
+      "b": "4, 3, 2",
+      "c": "3, 2, 1",
+      "d": "2, 3, 2"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_119",
+    "question": "¿Cuál es la masa de 0,5 moles de NaCl (M = 58,5 g/mol)?",
+    "options": {
+      "a": "117 g",
+      "b": "58,5 g",
+      "c": "29,25 g",
+      "d": "23,4 g"
+    },
+    "correct": "c",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_120",
+    "question": "En una reacción con un rendimiento del 80%, si teóricamente se obtienen 100 g de producto, ¿cuánto se obtiene realmente?",
+    "options": {
+      "a": "120 g",
+      "b": "80 g",
+      "c": "20 g",
+      "d": "100 g"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_121",
+    "question": "La composición centesimal del agua es aproximadamente:",
+    "options": {
+      "a": "50% H, 50% O",
+      "b": "11,1% H, 88,9% O",
+      "c": "33,3% H, 66,7% O",
+      "d": "20% H, 80% O"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_122",
+    "question": "¿Cuántos litros de O₂ en CN se necesitan para quemar 1 mol de metano (CH₄ + 2O₂ → CO₂ + 2H₂O)?",
+    "options": {
+      "a": "22,4 L",
+      "b": "44,8 L",
+      "c": "11,2 L",
+      "d": "67,2 L"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_123",
+    "question": "La fórmula empírica de un compuesto con 40% C, 6,7% H y 53,3% O es:",
+    "options": {
+      "a": "CH₂O",
+      "b": "C₂H₄O₂",
+      "c": "CHO",
+      "d": "C₃H₆O₃"
+    },
+    "correct": "a",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_124",
+    "question": "En la reacción CaCO₃ → CaO + CO₂, ¿cuántos gramos de CaO se obtienen de 100 g de CaCO₃? (M(CaCO₃)=100, M(CaO)=56)",
+    "options": {
+      "a": "44 g",
+      "b": "56 g",
+      "c": "100 g",
+      "d": "28 g"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_125",
+    "question": "¿Qué ley establece que en una reacción química la masa total se conserva?",
+    "options": {
+      "a": "Ley de las proporciones definidas",
+      "b": "Ley de conservación de la masa (Lavoisier)",
+      "c": "Ley de las proporciones múltiples",
+      "d": "Ley de los volúmenes de combinación"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_126",
+    "question": "Si 2 moles de un gas ideal ocupan 44,8 L en CN, ¿qué presión ejerce 1 mol de ese gas en 11,2 L a 0°C?",
+    "options": {
+      "a": "0,5 atm",
+      "b": "1 atm",
+      "c": "2 atm",
+      "d": "4 atm"
+    },
+    "correct": "c",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_127",
+    "question": "La masa molar del Ca(OH)₂ es (Ca=40, O=16, H=1):",
+    "options": {
+      "a": "57 g/mol",
+      "b": "74 g/mol",
+      "c": "40 g/mol",
+      "d": "82 g/mol"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_128",
+    "question": "En la reacción 2Na + 2H₂O → 2NaOH + H₂, ¿cuántos moles de H₂ se producen con 4 moles de Na?",
+    "options": {
+      "a": "1 mol",
+      "b": "2 moles",
+      "c": "4 moles",
+      "d": "0,5 moles"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_129",
+    "question": "La ley de las proporciones definidas fue enunciada por:",
+    "options": {
+      "a": "Dalton",
+      "b": "Proust",
+      "c": "Lavoisier",
+      "d": "Gay-Lussac"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_130",
+    "question": "¿Cuántas moléculas hay en 11,2 L de un gas ideal en condiciones normales?",
+    "options": {
+      "a": "6,022 × 10²³",
+      "b": "3,011 × 10²³",
+      "c": "1,204 × 10²⁴",
+      "d": "1,505 × 10²³"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_131",
+    "question": "¿Cuántos gramos de NaOH se necesitan para preparar 500 mL de disolución 0,1 M? (M(NaOH)=40)",
+    "options": {
+      "a": "4 g",
+      "b": "2 g",
+      "c": "20 g",
+      "d": "0,4 g"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_132",
+    "question": "La masa molecular relativa del CO₂ es (C=12, O=16):",
+    "options": {
+      "a": "28",
+      "b": "32",
+      "c": "44",
+      "d": "48"
+    },
+    "correct": "c",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_133",
+    "question": "Ajusta: __Al + __HCl → __AlCl₃ + __H₂. Los coeficientes son:",
+    "options": {
+      "a": "1, 3, 1, 1",
+      "b": "2, 6, 2, 3",
+      "c": "2, 3, 2, 3",
+      "d": "1, 6, 1, 3"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_134",
+    "question": "Si la densidad de una disolución es 1,2 g/mL y tiene un 20% en masa de soluto, la concentración en g/L es:",
+    "options": {
+      "a": "200 g/L",
+      "b": "240 g/L",
+      "c": "120 g/L",
+      "d": "24 g/L"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_135",
+    "question": "En una reacción de neutralización: HCl + NaOH → NaCl + H₂O, ¿cuántos mL de HCl 0,5 M se necesitan para neutralizar 100 mL de NaOH 0,25 M?",
+    "options": {
+      "a": "25 mL",
+      "b": "50 mL",
+      "c": "100 mL",
+      "d": "200 mL"
+    },
+    "correct": "b",
+    "topic": "Estequiometría"
+  },
+  {
+    "id": "chem_136",
+    "question": "La molaridad de una disolución que contiene 4 g de NaOH en 500 mL es (M=40 g/mol):",
+    "options": {
+      "a": "0,1 M",
+      "b": "0,2 M",
+      "c": "0,4 M",
+      "d": "0,05 M"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_137",
+    "question": "¿Qué es una disolución saturada?",
+    "options": {
+      "a": "Una disolución que no contiene soluto",
+      "b": "Una disolución que contiene la máxima cantidad de soluto disuelto a esa temperatura",
+      "c": "Una disolución muy diluida",
+      "d": "Una disolución con soluto precipitado"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_138",
+    "question": "Si diluimos 100 mL de HCl 2 M hasta 400 mL, la concentración final es:",
+    "options": {
+      "a": "0,25 M",
+      "b": "0,5 M",
+      "c": "1 M",
+      "d": "8 M"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_139",
+    "question": "¿Cuál es la fracción molar del soluto en una disolución que contiene 1 mol de glucosa en 9 moles de agua?",
+    "options": {
+      "a": "0,1",
+      "b": "0,11",
+      "c": "0,9",
+      "d": "0,01"
+    },
+    "correct": "a",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_140",
+    "question": "La solubilidad de un gas en un líquido aumenta cuando:",
+    "options": {
+      "a": "Aumenta la temperatura",
+      "b": "Disminuye la presión",
+      "c": "Aumenta la presión",
+      "d": "Se añade más soluto sólido"
+    },
+    "correct": "c",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_141",
+    "question": "La molalidad se define como:",
+    "options": {
+      "a": "Moles de soluto por litro de disolución",
+      "b": "Moles de soluto por kilogramo de disolvente",
+      "c": "Gramos de soluto por litro de disolución",
+      "d": "Moles de soluto por moles totales"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_142",
+    "question": "¿Cuántos gramos de NaCl (M=58,5) hay en 250 mL de disolución 2 M?",
+    "options": {
+      "a": "29,25 g",
+      "b": "58,5 g",
+      "c": "117 g",
+      "d": "14,6 g"
+    },
+    "correct": "a",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_143",
+    "question": "El descenso crioscópico es una propiedad coligativa que depende de:",
+    "options": {
+      "a": "La naturaleza del soluto",
+      "b": "El número de partículas de soluto en disolución",
+      "c": "La masa molar del disolvente",
+      "d": "El color del soluto"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_144",
+    "question": "¿Qué volumen de disolución 0,5 M contiene 0,25 moles de soluto?",
+    "options": {
+      "a": "250 mL",
+      "b": "500 mL",
+      "c": "125 mL",
+      "d": "1000 mL"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_145",
+    "question": "La presión osmótica de una disolución:",
+    "options": {
+      "a": "Disminuye al aumentar la concentración",
+      "b": "Es independiente de la temperatura",
+      "c": "Aumenta con la concentración de soluto",
+      "d": "Solo depende del disolvente"
+    },
+    "correct": "c",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_146",
+    "question": "Una disolución al 10% m/V de glucosa contiene:",
+    "options": {
+      "a": "10 g de glucosa en 100 mL de disolución",
+      "b": "10 g de glucosa en 1 L de disolución",
+      "c": "10 mL de glucosa en 100 mL de disolución",
+      "d": "100 g de glucosa en 10 mL de disolución"
+    },
+    "correct": "a",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_147",
+    "question": "Al disolver un sólido iónico en agua, el punto de ebullición de la disolución:",
+    "options": {
+      "a": "Disminuye",
+      "b": "No cambia",
+      "c": "Aumenta",
+      "d": "Depende del color del soluto"
+    },
+    "correct": "c",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_148",
+    "question": "¿Qué concentración en % m/m tiene una disolución preparada con 20 g de sal y 80 g de agua?",
+    "options": {
+      "a": "25%",
+      "b": "20%",
+      "c": "80%",
+      "d": "10%"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_149",
+    "question": "La ley de Henry establece que:",
+    "options": {
+      "a": "La solubilidad de un gas es inversamente proporcional a la presión",
+      "b": "La solubilidad de un gas es directamente proporcional a la presión parcial del gas sobre la disolución",
+      "c": "Los gases son siempre insolubles",
+      "d": "La presión no afecta la solubilidad"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_150",
+    "question": "Para preparar 1 L de disolución 0,1 M de KCl (M=74,5 g/mol), se necesitan:",
+    "options": {
+      "a": "7,45 g",
+      "b": "74,5 g",
+      "c": "14,9 g",
+      "d": "3,72 g"
+    },
+    "correct": "a",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_151",
+    "question": "La ósmosis es el paso de:",
+    "options": {
+      "a": "Soluto a través de una membrana semipermeable",
+      "b": "Disolvente a través de una membrana semipermeable hacia la disolución más concentrada",
+      "c": "Gases a través de cualquier membrana",
+      "d": "Soluto de la disolución concentrada a la diluida"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_152",
+    "question": "Si mezclamos 200 mL de NaCl 0,3 M con 300 mL de NaCl 0,1 M, la concentración final es:",
+    "options": {
+      "a": "0,18 M",
+      "b": "0,2 M",
+      "c": "0,15 M",
+      "d": "0,4 M"
+    },
+    "correct": "a",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_153",
+    "question": "¿Cuál de las siguientes NO es una propiedad coligativa?",
+    "options": {
+      "a": "Descenso crioscópico",
+      "b": "Ascenso ebulloscópico",
+      "c": "Presión osmótica",
+      "d": "Densidad"
+    },
+    "correct": "d",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_154",
+    "question": "La solubilidad de la mayoría de sólidos en agua:",
+    "options": {
+      "a": "Disminuye al aumentar la temperatura",
+      "b": "Aumenta al aumentar la temperatura",
+      "c": "No depende de la temperatura",
+      "d": "Solo depende de la presión"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_155",
+    "question": "Una disolución hipertónica respecto a otra tiene:",
+    "options": {
+      "a": "Menor concentración de soluto",
+      "b": "Mayor concentración de soluto",
+      "c": "Igual concentración de soluto",
+      "d": "Menor presión"
+    },
+    "correct": "b",
+    "topic": "Disoluciones"
+  },
+  {
+    "id": "chem_156",
+    "question": "Una reacción exotérmica es aquella en la que:",
+    "options": {
+      "a": "Se absorbe calor del entorno",
+      "b": "Se libera calor al entorno",
+      "c": "No hay intercambio de calor",
+      "d": "La temperatura del sistema disminuye"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_157",
+    "question": "¿Qué signo tiene ΔH en una reacción endotérmica?",
+    "options": {
+      "a": "Negativo",
+      "b": "Positivo",
+      "c": "Cero",
+      "d": "Depende de la presión"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_158",
+    "question": "Un catalizador actúa:",
+    "options": {
+      "a": "Aumentando la energía de activación",
+      "b": "Disminuyendo la energía de activación",
+      "c": "Modificando el ΔH de la reacción",
+      "d": "Desplazando el equilibrio"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_159",
+    "question": "Según el principio de Le Chatelier, si se aumenta la presión en un equilibrio gaseoso:",
+    "options": {
+      "a": "Se desplaza hacia donde hay más moles de gas",
+      "b": "Se desplaza hacia donde hay menos moles de gas",
+      "c": "No se produce ningún cambio",
+      "d": "La reacción se detiene"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_160",
+    "question": "La velocidad de una reacción aumenta al aumentar la temperatura porque:",
+    "options": {
+      "a": "Disminuye la energía de activación",
+      "b": "Aumenta la energía cinética de las moléculas y hay más colisiones eficaces",
+      "c": "El catalizador es más eficiente",
+      "d": "Se modifica la constante de equilibrio"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_161",
+    "question": "La constante de equilibrio Kc depende de:",
+    "options": {
+      "a": "La concentración inicial de reactivos",
+      "b": "La temperatura",
+      "c": "La presión",
+      "d": "La presencia de catalizador"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_162",
+    "question": "La ley de Hess establece que:",
+    "options": {
+      "a": "La entalpía depende del camino seguido",
+      "b": "La variación de entalpía de una reacción es independiente del camino y solo depende del estado inicial y final",
+      "c": "Todas las reacciones son endotérmicas",
+      "d": "La entropía siempre aumenta"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_163",
+    "question": "Para la reacción N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH < 0. ¿Qué favorece la formación de NH₃?",
+    "options": {
+      "a": "Aumentar la temperatura",
+      "b": "Disminuir la presión",
+      "c": "Aumentar la presión y disminuir la temperatura",
+      "d": "Añadir un catalizador"
+    },
+    "correct": "c",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_164",
+    "question": "La energía de activación es:",
+    "options": {
+      "a": "La energía total liberada en la reacción",
+      "b": "La energía mínima necesaria para que la reacción ocurra",
+      "c": "La energía de los productos menos la de los reactivos",
+      "d": "La energía cinética media de las moléculas"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_165",
+    "question": "En un equilibrio químico:",
+    "options": {
+      "a": "Las concentraciones de reactivos y productos son iguales",
+      "b": "Las velocidades de la reacción directa e inversa son iguales",
+      "c": "No hay reacción",
+      "d": "Solo hay productos"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_166",
+    "question": "Si Kc >> 1, en el equilibrio predominan:",
+    "options": {
+      "a": "Los reactivos",
+      "b": "Los productos",
+      "c": "Hay igual cantidad de reactivos y productos",
+      "d": "No se puede determinar"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_167",
+    "question": "¿Cuál de estos factores NO afecta a la velocidad de reacción?",
+    "options": {
+      "a": "Temperatura",
+      "b": "Concentración de reactivos",
+      "c": "Presencia de catalizador",
+      "d": "El ΔH de la reacción"
+    },
+    "correct": "d",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_168",
+    "question": "La entropía (S) es una medida de:",
+    "options": {
+      "a": "La energía interna del sistema",
+      "b": "El desorden del sistema",
+      "c": "La temperatura del sistema",
+      "d": "La presión del sistema"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_169",
+    "question": "Una reacción es espontánea cuando:",
+    "options": {
+      "a": "ΔG > 0",
+      "b": "ΔG < 0",
+      "c": "ΔG = 0",
+      "d": "ΔH > 0 siempre"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_170",
+    "question": "La expresión de Kc para la reacción 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) es:",
+    "options": {
+      "a": "Kc = [SO₃]² / ([SO₂]² · [O₂])",
+      "b": "Kc = [SO₂]² · [O₂] / [SO₃]²",
+      "c": "Kc = [SO₃] / ([SO₂] · [O₂])",
+      "d": "Kc = 2[SO₃] / (2[SO₂] + [O₂])"
+    },
+    "correct": "a",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_171",
+    "question": "La energía libre de Gibbs se calcula como:",
+    "options": {
+      "a": "ΔG = ΔH + TΔS",
+      "b": "ΔG = ΔH - TΔS",
+      "c": "ΔG = ΔS - TΔH",
+      "d": "ΔG = T(ΔH - ΔS)"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_172",
+    "question": "Un catalizador en una reacción reversible:",
+    "options": {
+      "a": "Desplaza el equilibrio hacia los productos",
+      "b": "Aumenta la constante de equilibrio",
+      "c": "Acelera tanto la reacción directa como la inversa por igual",
+      "d": "Solo acelera la reacción directa"
+    },
+    "correct": "c",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_173",
+    "question": "Si se añade un reactivo a un sistema en equilibrio:",
+    "options": {
+      "a": "El equilibrio se desplaza hacia los reactivos",
+      "b": "El equilibrio se desplaza hacia los productos",
+      "c": "No ocurre nada",
+      "d": "La Kc cambia"
+    },
+    "correct": "b",
+    "topic": "Termodinámica y cinética básica"
+  },
+  {
+    "id": "chem_174",
+    "question": "¿Cuál es la fórmula general de los alcanos?",
+    "options": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ₊₂",
+      "c": "CₙH₂ₙ₋₂",
+      "d": "CₙHₙ"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_175",
+    "question": "El grupo funcional -OH corresponde a:",
+    "options": {
+      "a": "Un aldehído",
+      "b": "Una cetona",
+      "c": "Un alcohol",
+      "d": "Un ácido carboxílico"
+    },
+    "correct": "c",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_176",
+    "question": "¿Cuál es el nombre IUPAC del CH₃-CH₂-CH₂-CH₃?",
+    "options": {
+      "a": "Propano",
+      "b": "Butano",
+      "c": "Pentano",
+      "d": "Metano"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_177",
+    "question": "Los alquenos se caracterizan por tener:",
+    "options": {
+      "a": "Solo enlaces simples C-C",
+      "b": "Al menos un doble enlace C=C",
+      "c": "Al menos un triple enlace C≡C",
+      "d": "Un grupo funcional -COOH"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_178",
+    "question": "El grupo funcional -COOH corresponde a:",
+    "options": {
+      "a": "Un alcohol",
+      "b": "Un aldehído",
+      "c": "Un ácido carboxílico",
+      "d": "Un éster"
+    },
+    "correct": "c",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_179",
+    "question": "¿Cuál es la fórmula molecular del etanol?",
+    "options": {
+      "a": "CH₃OH",
+      "b": "C₂H₅OH",
+      "c": "C₃H₇OH",
+      "d": "C₂H₄O"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_180",
+    "question": "El benceno (C₆H₆) es un ejemplo de:",
+    "options": {
+      "a": "Hidrocarburo alifático",
+      "b": "Hidrocarburo aromático",
+      "c": "Alcano cíclico",
+      "d": "Alquino"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_181",
+    "question": "Una cetona se diferencia de un aldehído en que:",
+    "options": {
+      "a": "El grupo C=O está unido a dos átomos de carbono",
+      "b": "El grupo C=O está en un carbono terminal",
+      "c": "No contiene oxígeno",
+      "d": "Contiene nitrógeno"
+    },
+    "correct": "a",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_182",
+    "question": "¿Cuál es el nombre del compuesto CH₃-CO-CH₃?",
+    "options": {
+      "a": "Propanal",
+      "b": "Propanona (acetona)",
+      "c": "Ácido propanoico",
+      "d": "Propanol"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_183",
+    "question": "Los ésteres se forman por reacción entre:",
+    "options": {
+      "a": "Un alcohol y una amina",
+      "b": "Un ácido carboxílico y un alcohol",
+      "c": "Dos ácidos carboxílicos",
+      "d": "Un aldehído y una cetona"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_184",
+    "question": "El eteno (etileno) tiene hibridación:",
+    "options": {
+      "a": "sp",
+      "b": "sp²",
+      "c": "sp³",
+      "d": "No hibridado"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_185",
+    "question": "¿Cuál de estos compuestos es un alquino?",
+    "options": {
+      "a": "C₂H₆",
+      "b": "C₂H₄",
+      "c": "C₂H₂",
+      "d": "C₃H₈"
+    },
+    "correct": "c",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_186",
+    "question": "El grupo funcional -NH₂ corresponde a:",
+    "options": {
+      "a": "Un ácido carboxílico",
+      "b": "Una amina",
+      "c": "Un alcohol",
+      "d": "Un éter"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_187",
+    "question": "La isomería de cadena se produce cuando dos compuestos tienen:",
+    "options": {
+      "a": "La misma fórmula molecular pero diferente disposición de la cadena carbonada",
+      "b": "Diferente fórmula molecular",
+      "c": "El mismo grupo funcional en distinta posición",
+      "d": "Diferente grupo funcional"
+    },
+    "correct": "a",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_188",
+    "question": "El nombre IUPAC del CH₃-CH=CH₂ es:",
+    "options": {
+      "a": "Propano",
+      "b": "Propeno",
+      "c": "Propino",
+      "d": "Ciclopropano"
+    },
+    "correct": "b",
+    "topic": "Química orgánica básica"
+  },
+  {
+    "id": "chem_189",
+    "question": "¿Quién propuso la primera tabla periódica ordenada por peso atómico?",
+    "options": {
+      "a": "Dalton",
+      "b": "Lavoisier",
+      "c": "Mendeleev",
+      "d": "Rutherford"
+    },
+    "correct": "c",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_190",
+    "question": "La ley de conservación de la masa fue enunciada por:",
+    "options": {
+      "a": "Dalton",
+      "b": "Lavoisier",
+      "c": "Proust",
+      "d": "Avogadro"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_191",
+    "question": "¿Quién propuso la primera teoría atómica moderna a principios del siglo XIX?",
+    "options": {
+      "a": "Thomson",
+      "b": "Rutherford",
+      "c": "Dalton",
+      "d": "Bohr"
+    },
+    "correct": "c",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_192",
+    "question": "Marie Curie descubrió los elementos:",
+    "options": {
+      "a": "Radio y polonio",
+      "b": "Uranio y torio",
+      "c": "Francio y actinio",
+      "d": "Helio y neón"
+    },
+    "correct": "a",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_193",
+    "question": "¿Quién descubrió el electrón mediante experimentos con rayos catódicos?",
+    "options": {
+      "a": "Rutherford",
+      "b": "Thomson",
+      "c": "Millikan",
+      "d": "Faraday"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_194",
+    "question": "Lavoisier es considerado el padre de la química moderna porque:",
+    "options": {
+      "a": "Descubrió la tabla periódica",
+      "b": "Demostró la conservación de la masa y desterró la teoría del flogisto",
+      "c": "Inventó el microscopio",
+      "d": "Descubrió el electrón"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_195",
+    "question": "¿Qué científico determinó la carga del electrón con el experimento de la gota de aceite?",
+    "options": {
+      "a": "Thomson",
+      "b": "Rutherford",
+      "c": "Millikan",
+      "d": "Bohr"
+    },
+    "correct": "c",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_196",
+    "question": "Mendeleev predijo la existencia de elementos aún no descubiertos. Uno de ellos fue:",
+    "options": {
+      "a": "El neón",
+      "b": "El galio (eka-aluminio)",
+      "c": "El uranio",
+      "d": "El carbono"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_197",
+    "question": "¿Quién enunció la hipótesis de que volúmenes iguales de gases contienen el mismo número de moléculas?",
+    "options": {
+      "a": "Gay-Lussac",
+      "b": "Dalton",
+      "c": "Avogadro",
+      "d": "Boyle"
+    },
+    "correct": "c",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_198",
+    "question": "La teoría del flogisto fue refutada por:",
+    "options": {
+      "a": "Mendeleev",
+      "b": "Dalton",
+      "c": "Lavoisier",
+      "d": "Boyle"
+    },
+    "correct": "c",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_199",
+    "question": "¿Qué aportación principal hizo Bohr al modelo atómico?",
+    "options": {
+      "a": "Descubrió el núcleo",
+      "b": "Propuso que los electrones se mueven en órbitas con energías cuantizadas",
+      "c": "Descubrió los neutrones",
+      "d": "Propuso el modelo del pudín de pasas"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  },
+  {
+    "id": "chem_200",
+    "question": "¿En qué siglo se descubrió el oxígeno, independientemente, por Scheele y Priestley?",
+    "options": {
+      "a": "Siglo XVII",
+      "b": "Siglo XVIII",
+      "c": "Siglo XIX",
+      "d": "Siglo XX"
+    },
+    "correct": "b",
+    "topic": "Historia de la química"
+  }
+]

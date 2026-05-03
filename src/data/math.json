@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "math_1",
+    "question": "Resuelve la ecuación: 2x + 5 = 17",
+    "options": {
+      "a": "x = 5",
+      "b": "x = 6",
+      "c": "x = 7",
+      "d": "x = 8"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_2",
+    "question": "Factoriza el polinomio: x² - 9",
+    "options": {
+      "a": "(x - 3)(x + 3)",
+      "b": "(x - 9)(x + 1)",
+      "c": "(x - 3)²",
+      "d": "(x + 9)(x - 1)"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_3",
+    "question": "¿Cuál es la solución del sistema: x + y = 7, x - y = 3?",
+    "options": {
+      "a": "x = 4, y = 3",
+      "b": "x = 5, y = 2",
+      "c": "x = 6, y = 1",
+      "d": "x = 3, y = 4"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_4",
+    "question": "Resuelve: x² - 5x + 6 = 0",
+    "options": {
+      "a": "x = 1, x = 6",
+      "b": "x = -2, x = -3",
+      "c": "x = 2, x = 3",
+      "d": "x = -1, x = 6"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_5",
+    "question": "Simplifica: (3x² + 6x) / (3x)",
+    "options": {
+      "a": "x + 2",
+      "b": "x² + 2",
+      "c": "x + 6",
+      "d": "3x + 2"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_6",
+    "question": "Resuelve la inecuación: 3x - 4 > 8",
+    "options": {
+      "a": "x > 3",
+      "b": "x > 4",
+      "c": "x > 2",
+      "d": "x > 5"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_7",
+    "question": "¿Cuál es el resto de dividir P(x) = x³ - 2x + 1 entre (x - 1)?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "2"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_8",
+    "question": "Desarrolla: (2x + 3)²",
+    "options": {
+      "a": "4x² + 9",
+      "b": "4x² + 6x + 9",
+      "c": "4x² + 12x + 9",
+      "d": "2x² + 12x + 9"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_9",
+    "question": "Resuelve el sistema: 2x + 3y = 12, x - y = 1",
+    "options": {
+      "a": "x = 2, y = 1",
+      "b": "x = 3, y = 2",
+      "c": "x = 4, y = 3",
+      "d": "x = 1, y = 0"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_10",
+    "question": "Factoriza: x² + 7x + 12",
+    "options": {
+      "a": "(x + 2)(x + 6)",
+      "b": "(x + 3)(x + 4)",
+      "c": "(x + 1)(x + 12)",
+      "d": "(x + 6)(x + 2)"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_11",
+    "question": "¿Cuántas soluciones reales tiene x² + 4 = 0?",
+    "options": {
+      "a": "Dos soluciones",
+      "b": "Una solución",
+      "c": "Ninguna solución real",
+      "d": "Infinitas soluciones"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_12",
+    "question": "Resuelve: |2x - 6| = 10",
+    "options": {
+      "a": "x = 8 o x = -2",
+      "b": "x = 8 o x = 2",
+      "c": "x = -8 o x = 2",
+      "d": "x = 8 o x = -8"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_13",
+    "question": "Si P(x) = 2x³ - x² + 3x - 1, ¿cuál es P(1)?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_14",
+    "question": "Resuelve la inecuación: x² - 4 ≤ 0",
+    "options": {
+      "a": "x ∈ [-2, 2]",
+      "b": "x ∈ (-∞, -2] ∪ [2, +∞)",
+      "c": "x ∈ [-4, 4]",
+      "d": "x ∈ [0, 4]"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_15",
+    "question": "¿Cuál es el MCD de 12x³y² y 18x²y⁴?",
+    "options": {
+      "a": "6x²y²",
+      "b": "36x³y⁴",
+      "c": "6x³y⁴",
+      "d": "12x²y²"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_16",
+    "question": "Resuelve: 3(x - 2) + 4 = 2(x + 1)",
+    "options": {
+      "a": "x = 4",
+      "b": "x = 0",
+      "c": "x = 2",
+      "d": "x = -4"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_17",
+    "question": "Factoriza: 2x² - 8",
+    "options": {
+      "a": "2(x² - 4)",
+      "b": "2(x - 2)(x + 2)",
+      "c": "(2x - 4)(x + 2)",
+      "d": "2(x - 4)(x + 2)"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_18",
+    "question": "Si x + 1/x = 3, ¿cuánto vale x² + 1/x²?",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "9",
+      "d": "6"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_19",
+    "question": "Resuelve: √(x + 3) = 5",
+    "options": {
+      "a": "x = 22",
+      "b": "x = 28",
+      "c": "x = 25",
+      "d": "x = 8"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_20",
+    "question": "¿Cuál es el grado del polinomio 5x⁴ - 3x² + 2x - 7?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_21",
+    "question": "Resuelve el sistema: 3x - 2y = 8, x + 2y = 4",
+    "options": {
+      "a": "x = 2, y = -1",
+      "b": "x = 3, y = 0.5",
+      "c": "x = 4, y = 2",
+      "d": "x = 3, y = 1"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_22",
+    "question": "Simplifica: (x² - 4)/(x + 2)",
+    "options": {
+      "a": "x + 2",
+      "b": "x - 2",
+      "c": "x - 4",
+      "d": "x² - 2"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_23",
+    "question": "Resuelve: 2x² + 3x - 2 = 0",
+    "options": {
+      "a": "x = 1/2, x = -2",
+      "b": "x = -1/2, x = 2",
+      "c": "x = 2, x = -1",
+      "d": "x = 1, x = -2"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_24",
+    "question": "¿Cuál es la suma de las raíces de x² - 7x + 10 = 0?",
+    "options": {
+      "a": "10",
+      "b": "7",
+      "c": "-7",
+      "d": "5"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_25",
+    "question": "Desarrolla: (a - b)(a + b)",
+    "options": {
+      "a": "a² - b²",
+      "b": "a² + b²",
+      "c": "a² - 2ab + b²",
+      "d": "a² + 2ab + b²"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_26",
+    "question": "Resuelve: 5/(x - 1) = 2/(x + 2)",
+    "options": {
+      "a": "x = 4",
+      "b": "x = -4",
+      "c": "x = 12/3",
+      "d": "x = 4/3"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_27",
+    "question": "Si f(x) = x² - 1 y g(x) = x + 1, ¿cuánto vale f(x)/g(x) para x ≠ -1?",
+    "options": {
+      "a": "x + 1",
+      "b": "x - 1",
+      "c": "x² + 1",
+      "d": "x"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_28",
+    "question": "Resuelve la inecuación: (x - 1)(x + 3) > 0",
+    "options": {
+      "a": "x ∈ (-3, 1)",
+      "b": "x ∈ (-∞, -3) ∪ (1, +∞)",
+      "c": "x ∈ (-1, 3)",
+      "d": "x ∈ (-∞, -1) ∪ (3, +∞)"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_29",
+    "question": "Halla el producto de las raíces de 2x² - 5x + 3 = 0",
+    "options": {
+      "a": "5/2",
+      "b": "3/2",
+      "c": "3",
+      "d": "-3/2"
+    },
+    "correct": "b",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_30",
+    "question": "Resuelve: x³ - 8 = 0",
+    "options": {
+      "a": "x = 4",
+      "b": "x = -2",
+      "c": "x = 2",
+      "d": "x = 8"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_31",
+    "question": "Calcula: (2x³)² · x",
+    "options": {
+      "a": "4x⁷",
+      "b": "4x⁶",
+      "c": "2x⁷",
+      "d": "4x⁵"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_32",
+    "question": "Resuelve: |x - 3| < 5",
+    "options": {
+      "a": "x ∈ (-2, 8)",
+      "b": "x ∈ (-5, 5)",
+      "c": "x ∈ (0, 8)",
+      "d": "x ∈ (-8, 2)"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_33",
+    "question": "Factoriza completamente: x³ - x² - 6x",
+    "options": {
+      "a": "x(x - 3)(x + 2)",
+      "b": "x(x + 3)(x - 2)",
+      "c": "x(x - 6)(x + 1)",
+      "d": "(x² - 3)(x + 2)"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_34",
+    "question": "Si 2ˣ = 16, ¿cuánto vale x?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "8"
+    },
+    "correct": "c",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_35",
+    "question": "Resuelve el sistema: x² + y² = 25, x + y = 7",
+    "options": {
+      "a": "(3, 4) y (4, 3)",
+      "b": "(5, 2) y (2, 5)",
+      "c": "(1, 6) y (6, 1)",
+      "d": "(0, 5) y (5, 0)"
+    },
+    "correct": "a",
+    "topic": "Álgebra"
+  },
+  {
+    "id": "math_36",
+    "question": "¿Cuál es el dominio de la función f(x) = √(x - 2)?",
+    "options": {
+      "a": "x ≥ 0",
+      "b": "x ≥ 2",
+      "c": "x > 2",
+      "d": "x ∈ ℝ"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_37",
+    "question": "¿Cuál es la imagen de f(x) = x² - 4?",
+    "options": {
+      "a": "y ≥ 0",
+      "b": "y ≥ -4",
+      "c": "y ∈ ℝ",
+      "d": "y ≥ 4"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_38",
+    "question": "Si f(x) = 2x + 1 y g(x) = x², ¿cuánto vale (f ∘ g)(2)?",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "25",
+      "d": "5"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_39",
+    "question": "¿Cuál es la pendiente de la función lineal f(x) = -3x + 7?",
+    "options": {
+      "a": "7",
+      "b": "3",
+      "c": "-3",
+      "d": "-7"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_40",
+    "question": "¿Cuál de las siguientes funciones es par?",
+    "options": {
+      "a": "f(x) = x³",
+      "b": "f(x) = x² + 1",
+      "c": "f(x) = x + 2",
+      "d": "f(x) = x³ + x"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_41",
+    "question": "Si f(x) = 3x - 2, ¿cuál es f⁻¹(x)?",
+    "options": {
+      "a": "(x + 2)/3",
+      "b": "(x - 2)/3",
+      "c": "3x + 2",
+      "d": "(2 - x)/3"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_42",
+    "question": "¿En qué punto corta al eje Y la función f(x) = 2x² - 3x + 5?",
+    "options": {
+      "a": "(0, 2)",
+      "b": "(0, 5)",
+      "c": "(0, -3)",
+      "d": "(5, 0)"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_43",
+    "question": "¿Cuál es el vértice de la parábola f(x) = x² - 6x + 8?",
+    "options": {
+      "a": "(3, -1)",
+      "b": "(3, 1)",
+      "c": "(-3, -1)",
+      "d": "(6, 8)"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_44",
+    "question": "¿Cuál es el dominio de f(x) = 1/(x² - 4)?",
+    "options": {
+      "a": "ℝ - {4}",
+      "b": "ℝ - {-2, 2}",
+      "c": "ℝ - {0}",
+      "d": "x > 2"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_45",
+    "question": "Si f(x) = x + 3 y g(x) = 2x - 1, ¿cuánto vale (g ∘ f)(2)?",
+    "options": {
+      "a": "7",
+      "b": "9",
+      "c": "11",
+      "d": "5"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_46",
+    "question": "La función f(x) = -x² + 4x - 3 tiene un máximo en:",
+    "options": {
+      "a": "x = 2",
+      "b": "x = -2",
+      "c": "x = 4",
+      "d": "x = 1"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_47",
+    "question": "¿Cuál de estas funciones es decreciente en todo su dominio?",
+    "options": {
+      "a": "f(x) = 2x + 1",
+      "b": "f(x) = x²",
+      "c": "f(x) = -5x + 3",
+      "d": "f(x) = |x|"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_48",
+    "question": "Si f(x) = x² + 2x, ¿cuáles son los ceros de la función?",
+    "options": {
+      "a": "x = 0 y x = 2",
+      "b": "x = 0 y x = -2",
+      "c": "x = 1 y x = -2",
+      "d": "x = -1 y x = 2"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_49",
+    "question": "¿Qué tipo de función es f(x) = 3 · 2ˣ?",
+    "options": {
+      "a": "Polinómica",
+      "b": "Logarítmica",
+      "c": "Exponencial",
+      "d": "Racional"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_50",
+    "question": "La gráfica de f(x) = (x - 2)² es la gráfica de g(x) = x² desplazada:",
+    "options": {
+      "a": "2 unidades a la izquierda",
+      "b": "2 unidades a la derecha",
+      "c": "2 unidades arriba",
+      "d": "2 unidades abajo"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_51",
+    "question": "¿Cuál es la asíntota horizontal de f(x) = (3x + 1)/(x - 2)?",
+    "options": {
+      "a": "y = 0",
+      "b": "y = 1",
+      "c": "y = 3",
+      "d": "y = -2"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_52",
+    "question": "Si f(x) = |x - 1|, ¿cuánto vale f(-2)?",
+    "options": {
+      "a": "1",
+      "b": "3",
+      "c": "-3",
+      "d": "-1"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_53",
+    "question": "¿Cuál es el periodo de la función f(x) = sen(2x)?",
+    "options": {
+      "a": "2π",
+      "b": "π",
+      "c": "π/2",
+      "d": "4π"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_54",
+    "question": "La función f(x) = ln(x) tiene como dominio:",
+    "options": {
+      "a": "x ∈ ℝ",
+      "b": "x ≥ 0",
+      "c": "x > 0",
+      "d": "x ≠ 0"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_55",
+    "question": "Si f(x) = 2x + 1, ¿cuánto vale f(f(2))?",
+    "options": {
+      "a": "9",
+      "b": "11",
+      "c": "10",
+      "d": "7"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_56",
+    "question": "¿Cuál es la imagen de la función f(x) = |x| + 1?",
+    "options": {
+      "a": "y ≥ 0",
+      "b": "y ≥ 1",
+      "c": "y > 1",
+      "d": "y ∈ ℝ"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_57",
+    "question": "La función f(x) = 1/x es:",
+    "options": {
+      "a": "Par",
+      "b": "Impar",
+      "c": "Ni par ni impar",
+      "d": "Periódica"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_58",
+    "question": "¿En qué intervalo es creciente f(x) = -x² + 4x?",
+    "options": {
+      "a": "(-∞, 2)",
+      "b": "(2, +∞)",
+      "c": "(-∞, 4)",
+      "d": "(0, 4)"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_59",
+    "question": "Si f(x) = x² y g(x) = √x, ¿cuánto vale (f ∘ g)(9)?",
+    "options": {
+      "a": "3",
+      "b": "81",
+      "c": "9",
+      "d": "27"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_60",
+    "question": "¿Cuántos puntos de corte con el eje X tiene f(x) = x² + 1?",
+    "options": {
+      "a": "Dos",
+      "b": "Uno",
+      "c": "Ninguno",
+      "d": "Infinitos"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_61",
+    "question": "La asíntota vertical de f(x) = 1/(x - 3) es:",
+    "options": {
+      "a": "x = 0",
+      "b": "x = 1",
+      "c": "x = 3",
+      "d": "x = -3"
+    },
+    "correct": "c",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_62",
+    "question": "Si f(x) = x³ - 3x, ¿cuál es f(-1)?",
+    "options": {
+      "a": "-2",
+      "b": "2",
+      "c": "4",
+      "d": "-4"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_63",
+    "question": "¿Cuál es la tasa de variación media de f(x) = x² en [1, 3]?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_64",
+    "question": "La gráfica de f(x) = x² + 3 tiene su vértice en:",
+    "options": {
+      "a": "(0, 3)",
+      "b": "(3, 0)",
+      "c": "(0, -3)",
+      "d": "(-3, 0)"
+    },
+    "correct": "a",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_65",
+    "question": "¿Cuál es el dominio de f(x) = √(4 - x²)?",
+    "options": {
+      "a": "x ∈ ℝ",
+      "b": "x ∈ [-2, 2]",
+      "c": "x ∈ [0, 2]",
+      "d": "x ∈ (-2, 2)"
+    },
+    "correct": "b",
+    "topic": "Funciones"
+  },
+  {
+    "id": "math_66",
+    "question": "¿Cuál es la derivada de f(x) = 3x²?",
+    "options": {
+      "a": "3x",
+      "b": "6x",
+      "c": "6x²",
+      "d": "9x"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_67",
+    "question": "¿Cuál es la derivada de f(x) = x³ + 2x?",
+    "options": {
+      "a": "3x² + 2",
+      "b": "3x² + 2x",
+      "c": "x² + 2",
+      "d": "3x + 2"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_68",
+    "question": "La derivada de una constante f(x) = 7 es:",
+    "options": {
+      "a": "7",
+      "b": "1",
+      "c": "0",
+      "d": "7x"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_69",
+    "question": "¿Cuál es la derivada de f(x) = 5x⁴ - 3x² + 1?",
+    "options": {
+      "a": "20x³ - 6x",
+      "b": "5x³ - 3x",
+      "c": "20x³ - 6x + 1",
+      "d": "20x⁴ - 6x²"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_70",
+    "question": "La derivada de f(x) = √x es:",
+    "options": {
+      "a": "1/(2√x)",
+      "b": "2√x",
+      "c": "1/√x",
+      "d": "√x/2"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_71",
+    "question": "¿Cuál es la derivada de f(x) = 1/x?",
+    "options": {
+      "a": "-1/x",
+      "b": "-1/x²",
+      "c": "1/x²",
+      "d": "ln(x)"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_72",
+    "question": "Si f(x) = (2x + 1)³, ¿cuánto vale f'(x)?",
+    "options": {
+      "a": "3(2x + 1)²",
+      "b": "6(2x + 1)²",
+      "c": "6(2x + 1)",
+      "d": "2(2x + 1)³"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_73",
+    "question": "La derivada de f(x) = eˣ es:",
+    "options": {
+      "a": "xeˣ⁻¹",
+      "b": "eˣ",
+      "c": "eˣ⁺¹",
+      "d": "1/eˣ"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_74",
+    "question": "¿Cuál es la derivada de f(x) = ln(x)?",
+    "options": {
+      "a": "x",
+      "b": "1/x",
+      "c": "ln(x)/x",
+      "d": "eˣ"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_75",
+    "question": "Si f(x) = x² · eˣ, entonces f'(x) =",
+    "options": {
+      "a": "2x · eˣ",
+      "b": "x² · eˣ + 2x · eˣ",
+      "c": "eˣ(x² + 2x)",
+      "d": "b y c son correctas"
+    },
+    "correct": "d",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_76",
+    "question": "La pendiente de la recta tangente a f(x) = x² en x = 3 es:",
+    "options": {
+      "a": "3",
+      "b": "6",
+      "c": "9",
+      "d": "12"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_77",
+    "question": "¿En qué punto tiene un mínimo la función f(x) = x² - 4x + 5?",
+    "options": {
+      "a": "x = -2",
+      "b": "x = 4",
+      "c": "x = 2",
+      "d": "x = 0"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_78",
+    "question": "La derivada de f(x) = sen(x) es:",
+    "options": {
+      "a": "-cos(x)",
+      "b": "cos(x)",
+      "c": "sen(x)",
+      "d": "-sen(x)"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_79",
+    "question": "La derivada de f(x) = cos(x) es:",
+    "options": {
+      "a": "sen(x)",
+      "b": "cos(x)",
+      "c": "-sen(x)",
+      "d": "-cos(x)"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_80",
+    "question": "Si f(x) = x³ - 12x, los puntos críticos están en:",
+    "options": {
+      "a": "x = ±2",
+      "b": "x = ±3",
+      "c": "x = 0, x = 4",
+      "d": "x = ±4"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_81",
+    "question": "¿Cuál es la derivada de f(x) = (x² + 1)/(x - 1)?",
+    "options": {
+      "a": "(x² - 2x - 1)/(x - 1)²",
+      "b": "(2x)/(x - 1)",
+      "c": "(x² - 2x + 1)/(x - 1)²",
+      "d": "2x/(x - 1)²"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_82",
+    "question": "La ecuación de la recta tangente a f(x) = x² en el punto (1, 1) es:",
+    "options": {
+      "a": "y = x",
+      "b": "y = 2x - 1",
+      "c": "y = 2x + 1",
+      "d": "y = x + 1"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_83",
+    "question": "Si f''(x) > 0, la función es:",
+    "options": {
+      "a": "Creciente",
+      "b": "Decreciente",
+      "c": "Cóncava hacia arriba (convexa)",
+      "d": "Cóncava hacia abajo"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_84",
+    "question": "La derivada de f(x) = 3e²ˣ es:",
+    "options": {
+      "a": "3e²ˣ",
+      "b": "6e²ˣ",
+      "c": "2e²ˣ",
+      "d": "6eˣ"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_85",
+    "question": "¿Cuál es la derivada de f(x) = x · ln(x)?",
+    "options": {
+      "a": "1/x",
+      "b": "ln(x)",
+      "c": "ln(x) + 1",
+      "d": "x + ln(x)"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_86",
+    "question": "Si f(x) = (x - 1)⁴, entonces f'(1) =",
+    "options": {
+      "a": "4",
+      "b": "0",
+      "c": "1",
+      "d": "-4"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_87",
+    "question": "La función f(x) = x³ tiene un punto de inflexión en:",
+    "options": {
+      "a": "x = 1",
+      "b": "x = -1",
+      "c": "x = 0",
+      "d": "No tiene punto de inflexión"
+    },
+    "correct": "c",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_88",
+    "question": "¿Cuál es la derivada de f(x) = tan(x)?",
+    "options": {
+      "a": "1/cos²(x)",
+      "b": "sen(x)/cos(x)",
+      "c": "1 + tan²(x)",
+      "d": "a y c son correctas"
+    },
+    "correct": "d",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_89",
+    "question": "La derivada de f(x) = 2x⁵ - x³ + 4x evaluada en x = 1 es:",
+    "options": {
+      "a": "10 - 3 + 4 = 11",
+      "b": "10 + 3 + 4 = 17",
+      "c": "5 - 3 + 4 = 6",
+      "d": "10 - 3 - 4 = 3"
+    },
+    "correct": "a",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_90",
+    "question": "Si f(x) = x² - 8x + 7, la función es decreciente en:",
+    "options": {
+      "a": "(4, +∞)",
+      "b": "(-∞, 4)",
+      "c": "(-∞, 0)",
+      "d": "(0, +∞)"
+    },
+    "correct": "b",
+    "topic": "Derivadas"
+  },
+  {
+    "id": "math_91",
+    "question": "¿Cuánto vale sen(30°)?",
+    "options": {
+      "a": "√3/2",
+      "b": "1/2",
+      "c": "√2/2",
+      "d": "1"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_92",
+    "question": "¿Cuánto vale cos(60°)?",
+    "options": {
+      "a": "√3/2",
+      "b": "1",
+      "c": "1/2",
+      "d": "0"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_93",
+    "question": "¿Cuánto vale tan(45°)?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "√2",
+      "d": "√3"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_94",
+    "question": "La identidad fundamental de la trigonometría establece que:",
+    "options": {
+      "a": "sen²(x) + cos²(x) = 1",
+      "b": "sen(x) + cos(x) = 1",
+      "c": "tan²(x) + 1 = sec²(x)",
+      "d": "a y c son correctas"
+    },
+    "correct": "d",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_95",
+    "question": "Si sen(α) = 3/5 y α está en el primer cuadrante, ¿cuánto vale cos(α)?",
+    "options": {
+      "a": "4/5",
+      "b": "3/5",
+      "c": "2/5",
+      "d": "5/3"
+    },
+    "correct": "a",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_96",
+    "question": "¿Cuánto vale sen(90°)?",
+    "options": {
+      "a": "0",
+      "b": "1/2",
+      "c": "1",
+      "d": "-1"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_97",
+    "question": "cos(180°) es igual a:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "1/2"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_98",
+    "question": "La fórmula del seno de la suma es: sen(α + β) =",
+    "options": {
+      "a": "sen(α)cos(β) + cos(α)sen(β)",
+      "b": "sen(α)sen(β) + cos(α)cos(β)",
+      "c": "sen(α)cos(β) - cos(α)sen(β)",
+      "d": "cos(α)cos(β) - sen(α)sen(β)"
+    },
+    "correct": "a",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_99",
+    "question": "¿Cuánto vale sen(2α) si sen(α) = 1/2 y α está en el primer cuadrante?",
+    "options": {
+      "a": "1",
+      "b": "√3/2",
+      "c": "1/2",
+      "d": "√2/2"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_100",
+    "question": "¿En qué cuadrante son positivos tanto el seno como la tangente?",
+    "options": {
+      "a": "Primer cuadrante",
+      "b": "Segundo cuadrante",
+      "c": "Tercer cuadrante",
+      "d": "a y c"
+    },
+    "correct": "a",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_101",
+    "question": "Convierte 180° a radianes:",
+    "options": {
+      "a": "π/2",
+      "b": "π",
+      "c": "2π",
+      "d": "3π/2"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_102",
+    "question": "¿Cuánto vale cos(π/3)?",
+    "options": {
+      "a": "√3/2",
+      "b": "1/2",
+      "c": "√2/2",
+      "d": "0"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_103",
+    "question": "Si tan(α) = 1 y α ∈ (0°, 90°), entonces α =",
+    "options": {
+      "a": "30°",
+      "b": "60°",
+      "c": "45°",
+      "d": "90°"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_104",
+    "question": "¿Cuál es el valor de sen²(60°) + cos²(60°)?",
+    "options": {
+      "a": "0",
+      "b": "1/2",
+      "c": "1",
+      "d": "2"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_105",
+    "question": "Resuelve: 2sen(x) - 1 = 0 para x ∈ [0°, 360°)",
+    "options": {
+      "a": "30° y 150°",
+      "b": "60° y 120°",
+      "c": "45° y 135°",
+      "d": "30° y 330°"
+    },
+    "correct": "a",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_106",
+    "question": "¿Cuánto vale cos(2α) usando la fórmula del ángulo doble?",
+    "options": {
+      "a": "2cos²(α) - 1",
+      "b": "cos²(α) - sen²(α)",
+      "c": "1 - 2sen²(α)",
+      "d": "Todas son correctas"
+    },
+    "correct": "d",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_107",
+    "question": "Si cos(α) = -1/2 y α ∈ (90°, 180°), entonces α =",
+    "options": {
+      "a": "60°",
+      "b": "120°",
+      "c": "150°",
+      "d": "135°"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_108",
+    "question": "La función f(x) = sen(x) tiene periodo:",
+    "options": {
+      "a": "π",
+      "b": "2π",
+      "c": "π/2",
+      "d": "4π"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_109",
+    "question": "¿Cuánto vale arctan(1)?",
+    "options": {
+      "a": "π/6",
+      "b": "π/4",
+      "c": "π/3",
+      "d": "π/2"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_110",
+    "question": "En un triángulo rectángulo con catetos 3 y 4, la hipotenusa mide:",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "5",
+      "d": "√7"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_111",
+    "question": "Si sen(x) = √2/2, los ángulos en [0, 2π) son:",
+    "options": {
+      "a": "π/4 y 3π/4",
+      "b": "π/3 y 2π/3",
+      "c": "π/6 y 5π/6",
+      "d": "π/4 y 5π/4"
+    },
+    "correct": "a",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_112",
+    "question": "¿Cuánto vale tan(60°)?",
+    "options": {
+      "a": "1",
+      "b": "√2",
+      "c": "√3",
+      "d": "2"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_113",
+    "question": "La cosecante es la inversa de:",
+    "options": {
+      "a": "Coseno",
+      "b": "Tangente",
+      "c": "Seno",
+      "d": "Cotangente"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_114",
+    "question": "Resuelve: cos(x) = 0 para x ∈ [0°, 360°)",
+    "options": {
+      "a": "0° y 180°",
+      "b": "90° y 270°",
+      "c": "0° y 360°",
+      "d": "45° y 225°"
+    },
+    "correct": "b",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_115",
+    "question": "¿Cuánto vale sen(π/6)?",
+    "options": {
+      "a": "√3/2",
+      "b": "√2/2",
+      "c": "1/2",
+      "d": "1"
+    },
+    "correct": "c",
+    "topic": "Trigonometría"
+  },
+  {
+    "id": "math_116",
+    "question": "La media aritmética de 2, 4, 6, 8, 10 es:",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_117",
+    "question": "La mediana del conjunto {3, 7, 1, 9, 5} es:",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "3",
+      "d": "9"
+    },
+    "correct": "a",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_118",
+    "question": "La moda del conjunto {2, 3, 3, 5, 7, 3, 8} es:",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "3",
+      "d": "7"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_119",
+    "question": "Si lanzamos un dado justo, ¿cuál es la probabilidad de obtener un número par?",
+    "options": {
+      "a": "1/6",
+      "b": "1/3",
+      "c": "1/2",
+      "d": "2/3"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_120",
+    "question": "¿Cuántas combinaciones de 3 elementos tomados de 5 hay? C(5,3) =",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "20",
+      "d": "60"
+    },
+    "correct": "a",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_121",
+    "question": "La varianza de {2, 4, 6} con media 4 es:",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8/3",
+      "d": "8"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_122",
+    "question": "Si P(A) = 0.3 y P(B) = 0.5, y A y B son independientes, P(A ∩ B) =",
+    "options": {
+      "a": "0.8",
+      "b": "0.15",
+      "c": "0.2",
+      "d": "0.35"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_123",
+    "question": "El número de permutaciones de 4 elementos es:",
+    "options": {
+      "a": "4",
+      "b": "12",
+      "c": "24",
+      "d": "16"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_124",
+    "question": "La probabilidad del complementario de un evento A es:",
+    "options": {
+      "a": "1 - P(A)",
+      "b": "1 + P(A)",
+      "c": "P(A)/2",
+      "d": "1/P(A)"
+    },
+    "correct": "a",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_125",
+    "question": "En una baraja española de 40 cartas, ¿cuál es la probabilidad de sacar un rey?",
+    "options": {
+      "a": "1/10",
+      "b": "4/40",
+      "c": "1/13",
+      "d": "a y b son correctas"
+    },
+    "correct": "d",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_126",
+    "question": "La mediana de {1, 2, 3, 4, 5, 6} es:",
+    "options": {
+      "a": "3",
+      "b": "3.5",
+      "c": "4",
+      "d": "2.5"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_127",
+    "question": "¿Cuántas variaciones de 4 elementos tomados de 2 en 2 hay? V(4,2) =",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "12",
+      "d": "16"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_128",
+    "question": "Si la desviación típica es 3, la varianza es:",
+    "options": {
+      "a": "3",
+      "b": "6",
+      "c": "9",
+      "d": "√3"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_129",
+    "question": "Al lanzar dos monedas, ¿cuál es la probabilidad de obtener dos caras?",
+    "options": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/4",
+      "d": "3/4"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_130",
+    "question": "La media ponderada de 6 (peso 2) y 8 (peso 3) es:",
+    "options": {
+      "a": "7",
+      "b": "7.2",
+      "c": "7.5",
+      "d": "6.8"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_131",
+    "question": "¿Cuánto vale 6!/(4! · 2!)?",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "20",
+      "d": "30"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_132",
+    "question": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Si P(A) = 0.4, P(B) = 0.5 y P(A ∩ B) = 0.2, entonces P(A ∪ B) =",
+    "options": {
+      "a": "0.5",
+      "b": "0.7",
+      "c": "0.9",
+      "d": "0.6"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_133",
+    "question": "El rango del conjunto {3, 7, 2, 9, 1, 8} es:",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_134",
+    "question": "Si un examen tiene 4 opciones por pregunta, la probabilidad de acertar al azar una pregunta es:",
+    "options": {
+      "a": "0.5",
+      "b": "0.25",
+      "c": "0.33",
+      "d": "0.2"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_135",
+    "question": "¿Cuál es la probabilidad de sacar un as o un rey de una baraja española de 40 cartas?",
+    "options": {
+      "a": "4/40",
+      "b": "8/40",
+      "c": "2/40",
+      "d": "6/40"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_136",
+    "question": "Si la media de 5 números es 8, su suma es:",
+    "options": {
+      "a": "35",
+      "b": "40",
+      "c": "45",
+      "d": "50"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_137",
+    "question": "En un diagrama de frecuencias acumuladas, la mediana corresponde al valor con frecuencia acumulada relativa:",
+    "options": {
+      "a": "25%",
+      "b": "50%",
+      "c": "75%",
+      "d": "100%"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_138",
+    "question": "¿Cuántos números de 3 cifras distintas se pueden formar con {1, 2, 3, 4, 5}?",
+    "options": {
+      "a": "60",
+      "b": "120",
+      "c": "125",
+      "d": "10"
+    },
+    "correct": "a",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_139",
+    "question": "La probabilidad condicionada P(A|B) se calcula como:",
+    "options": {
+      "a": "P(A ∩ B)/P(A)",
+      "b": "P(A ∩ B)/P(B)",
+      "c": "P(A ∪ B)/P(B)",
+      "d": "P(B)/P(A)"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_140",
+    "question": "El coeficiente de variación se calcula como:",
+    "options": {
+      "a": "Media / Desviación típica",
+      "b": "Desviación típica / Media",
+      "c": "Varianza / Media",
+      "d": "Media / Varianza"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_141",
+    "question": "Al lanzar un dado dos veces, ¿cuántos resultados posibles hay?",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "36",
+      "d": "6"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_142",
+    "question": "El percentil 75 (Q3) divide los datos de forma que queda por debajo:",
+    "options": {
+      "a": "El 25% de los datos",
+      "b": "El 50% de los datos",
+      "c": "El 75% de los datos",
+      "d": "El 100% de los datos"
+    },
+    "correct": "c",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_143",
+    "question": "Si P(A) = 0.6 y los eventos A y B son mutuamente excluyentes con P(B) = 0.3, entonces P(A ∪ B) =",
+    "options": {
+      "a": "0.18",
+      "b": "0.9",
+      "c": "0.72",
+      "d": "0.3"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_144",
+    "question": "La media de {1, 1, 2, 2, 3, 3, 4, 4} es:",
+    "options": {
+      "a": "2",
+      "b": "2.5",
+      "c": "3",
+      "d": "2.25"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_145",
+    "question": "¿Cuánto vale C(8,2)?",
+    "options": {
+      "a": "16",
+      "b": "28",
+      "c": "56",
+      "d": "36"
+    },
+    "correct": "b",
+    "topic": "Estadística y probabilidad"
+  },
+  {
+    "id": "math_146",
+    "question": "El vector que va del punto A(1, 3) al punto B(4, 7) es:",
+    "options": {
+      "a": "(5, 10)",
+      "b": "(3, 4)",
+      "c": "(4, 7)",
+      "d": "(-3, -4)"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_147",
+    "question": "La distancia entre los puntos (0, 0) y (3, 4) es:",
+    "options": {
+      "a": "7",
+      "b": "5",
+      "c": "√7",
+      "d": "25"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_148",
+    "question": "El punto medio del segmento con extremos (2, 6) y (8, 4) es:",
+    "options": {
+      "a": "(5, 5)",
+      "b": "(4, 5)",
+      "c": "(6, 2)",
+      "d": "(10, 10)"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_149",
+    "question": "La pendiente de la recta que pasa por (1, 2) y (3, 8) es:",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_150",
+    "question": "¿Cuál es la ecuación de la recta con pendiente 2 que pasa por (1, 3)?",
+    "options": {
+      "a": "y = 2x + 1",
+      "b": "y = 2x - 1",
+      "c": "y = 2x + 3",
+      "d": "y = 2x"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_151",
+    "question": "Dos rectas con pendientes m₁ = 2 y m₂ = -1/2 son:",
+    "options": {
+      "a": "Paralelas",
+      "b": "Perpendiculares",
+      "c": "Secantes no perpendiculares",
+      "d": "Coincidentes"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_152",
+    "question": "El módulo del vector (3, -4) es:",
+    "options": {
+      "a": "7",
+      "b": "1",
+      "c": "5",
+      "d": "√7"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_153",
+    "question": "El producto escalar de los vectores (2, 3) y (4, -1) es:",
+    "options": {
+      "a": "11",
+      "b": "5",
+      "c": "-5",
+      "d": "8"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_154",
+    "question": "La distancia del punto (3, 4) a la recta 3x + 4y - 5 = 0 es:",
+    "options": {
+      "a": "4",
+      "b": "20/5",
+      "c": "3",
+      "d": "a y b son correctas"
+    },
+    "correct": "d",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_155",
+    "question": "¿Cuál es la ecuación de la recta que pasa por el origen con pendiente -3?",
+    "options": {
+      "a": "y = -3x + 1",
+      "b": "y = 3x",
+      "c": "y = -3x",
+      "d": "y = -3"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_156",
+    "question": "Si los vectores (2, k) y (4, 6) son paralelos, entonces k =",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "12"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_157",
+    "question": "La ecuación general de una recta que pasa por (0, 5) con pendiente -2 es:",
+    "options": {
+      "a": "2x + y - 5 = 0",
+      "b": "2x - y + 5 = 0",
+      "c": "2x + y + 5 = 0",
+      "d": "-2x + y - 5 = 0"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_158",
+    "question": "El ángulo que forma el vector (1, 1) con el eje X es:",
+    "options": {
+      "a": "30°",
+      "b": "45°",
+      "c": "60°",
+      "d": "90°"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_159",
+    "question": "Las rectas y = 3x + 1 e y = 3x - 4 son:",
+    "options": {
+      "a": "Perpendiculares",
+      "b": "Secantes",
+      "c": "Paralelas",
+      "d": "Coincidentes"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_160",
+    "question": "La ecuación de la circunferencia con centro (2, 3) y radio 5 es:",
+    "options": {
+      "a": "(x - 2)² + (y - 3)² = 5",
+      "b": "(x - 2)² + (y - 3)² = 25",
+      "c": "(x + 2)² + (y + 3)² = 25",
+      "d": "x² + y² = 25"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_161",
+    "question": "El punto de intersección de las rectas y = x + 1 e y = -x + 5 es:",
+    "options": {
+      "a": "(2, 3)",
+      "b": "(3, 2)",
+      "c": "(1, 4)",
+      "d": "(4, 1)"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_162",
+    "question": "Si A(1, 2) y B(5, 2), ¿cuánto mide el segmento AB?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_163",
+    "question": "El vector unitario en la dirección de (3, 4) es:",
+    "options": {
+      "a": "(3/5, 4/5)",
+      "b": "(1/3, 1/4)",
+      "c": "(3/7, 4/7)",
+      "d": "(1, 1)"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_164",
+    "question": "La recta perpendicular a y = 2x + 3 que pasa por (0, 0) es:",
+    "options": {
+      "a": "y = 2x",
+      "b": "y = -2x",
+      "c": "y = -x/2",
+      "d": "y = x/2"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_165",
+    "question": "El área del triángulo con vértices (0,0), (4,0) y (0,3) es:",
+    "options": {
+      "a": "12",
+      "b": "6",
+      "c": "7",
+      "d": "24"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_166",
+    "question": "Si dos vectores tienen producto escalar 0, entonces son:",
+    "options": {
+      "a": "Paralelos",
+      "b": "Iguales",
+      "c": "Perpendiculares",
+      "d": "Opuestos"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_167",
+    "question": "La ecuación paramétrica de la recta que pasa por (1, 2) con vector director (3, -1) es:",
+    "options": {
+      "a": "x = 1 + 3t, y = 2 - t",
+      "b": "x = 3 + t, y = -1 + 2t",
+      "c": "x = 1 - 3t, y = 2 + t",
+      "d": "x = 1 + t, y = 2 - 3t"
+    },
+    "correct": "a",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_168",
+    "question": "La distancia entre los puntos (-1, 2) y (2, 6) es:",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "correct": "c",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_169",
+    "question": "¿Cuál es la pendiente de una recta paralela al eje X?",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "Infinita",
+      "d": "-1"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_170",
+    "question": "El simétrico del punto (3, 5) respecto al eje X es:",
+    "options": {
+      "a": "(-3, 5)",
+      "b": "(3, -5)",
+      "c": "(-3, -5)",
+      "d": "(5, 3)"
+    },
+    "correct": "b",
+    "topic": "Geometría analítica"
+  },
+  {
+    "id": "math_171",
+    "question": "¿Cuál es el límite de (x² - 1)/(x - 1) cuando x → 1?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "No existe"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_172",
+    "question": "¿Cuál es el límite de 1/x cuando x → +∞?",
+    "options": {
+      "a": "1",
+      "b": "+∞",
+      "c": "0",
+      "d": "-∞"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_173",
+    "question": "¿Cuál es el límite de (3x² + 2x)/(x² - 1) cuando x → ∞?",
+    "options": {
+      "a": "0",
+      "b": "2",
+      "c": "3",
+      "d": "+∞"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_174",
+    "question": "Una función f es continua en x = a si:",
+    "options": {
+      "a": "f(a) existe",
+      "b": "lím f(x) cuando x→a existe",
+      "c": "lím f(x) cuando x→a = f(a)",
+      "d": "Todas las anteriores son necesarias"
+    },
+    "correct": "d",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_175",
+    "question": "¿Cuál es el límite de (x³ - 8)/(x - 2) cuando x → 2?",
+    "options": {
+      "a": "4",
+      "b": "8",
+      "c": "12",
+      "d": "6"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_176",
+    "question": "El límite de sen(x)/x cuando x → 0 es:",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "∞",
+      "d": "No existe"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_177",
+    "question": "¿Cuál es el límite de (2x + 1)/(3x - 2) cuando x → ∞?",
+    "options": {
+      "a": "1",
+      "b": "2/3",
+      "c": "3/2",
+      "d": "0"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_178",
+    "question": "Si f(x) = (x² - 4)/(x + 2), la discontinuidad en x = -2 es:",
+    "options": {
+      "a": "Evitable",
+      "b": "De salto finito",
+      "c": "De salto infinito",
+      "d": "No hay discontinuidad"
+    },
+    "correct": "a",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_179",
+    "question": "¿Cuál es el límite de x²/(x + 1) cuando x → +∞?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "+∞",
+      "d": "-∞"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_180",
+    "question": "El límite de (1 + 1/n)ⁿ cuando n → ∞ es:",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "e ≈ 2.718",
+      "d": "∞"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_181",
+    "question": "¿Cuál es el límite de (x² - 9)/(x - 3) cuando x → 3?",
+    "options": {
+      "a": "0",
+      "b": "3",
+      "c": "6",
+      "d": "9"
+    },
+    "correct": "c",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_182",
+    "question": "Si lím f(x) cuando x→a⁺ ≠ lím f(x) cuando x→a⁻, la discontinuidad es de:",
+    "options": {
+      "a": "Tipo evitable",
+      "b": "Salto finito",
+      "c": "Salto infinito",
+      "d": "La función es continua"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_183",
+    "question": "¿Cuál es el límite de (5x³ - 2x)/(x³ + 1) cuando x → ∞?",
+    "options": {
+      "a": "0",
+      "b": "5",
+      "c": "-2",
+      "d": "∞"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_184",
+    "question": "El límite de √(x + 4) cuando x → 0 es:",
+    "options": {
+      "a": "0",
+      "b": "2",
+      "c": "4",
+      "d": "√2"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_185",
+    "question": "La función f(x) = |x|/x tiene en x = 0 una discontinuidad de tipo:",
+    "options": {
+      "a": "Evitable",
+      "b": "Salto finito",
+      "c": "Salto infinito",
+      "d": "Es continua"
+    },
+    "correct": "b",
+    "topic": "Límites y continuidad"
+  },
+  {
+    "id": "math_186",
+    "question": "¿Cuánto vale log₂(8)?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "8"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_187",
+    "question": "Simplifica: log(a) + log(b)",
+    "options": {
+      "a": "log(a + b)",
+      "b": "log(ab)",
+      "c": "log(a) · log(b)",
+      "d": "log(a/b)"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_188",
+    "question": "¿Cuánto vale ln(e²)?",
+    "options": {
+      "a": "1",
+      "b": "e",
+      "c": "2",
+      "d": "e²"
+    },
+    "correct": "c",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_189",
+    "question": "Resuelve: 3ˣ = 81",
+    "options": {
+      "a": "x = 3",
+      "b": "x = 4",
+      "c": "x = 27",
+      "d": "x = 9"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_190",
+    "question": "log₅(25) =",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "25",
+      "d": "1/2"
+    },
+    "correct": "a",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_191",
+    "question": "Simplifica: log(a³)",
+    "options": {
+      "a": "log(3a)",
+      "b": "3 + log(a)",
+      "c": "3 · log(a)",
+      "d": "log(a)³"
+    },
+    "correct": "c",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_192",
+    "question": "¿Cuánto vale log₁₀(1000)?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "10"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_193",
+    "question": "Resuelve: e²ˣ = e⁶",
+    "options": {
+      "a": "x = 2",
+      "b": "x = 3",
+      "c": "x = 6",
+      "d": "x = 12"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_194",
+    "question": "log(a) - log(b) =",
+    "options": {
+      "a": "log(a - b)",
+      "b": "log(a/b)",
+      "c": "log(a) / log(b)",
+      "d": "log(b/a)"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_195",
+    "question": "¿Cuánto vale log₃(1)?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "3",
+      "d": "-1"
+    },
+    "correct": "a",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_196",
+    "question": "Resuelve: 2^(x+1) = 32",
+    "options": {
+      "a": "x = 3",
+      "b": "x = 4",
+      "c": "x = 5",
+      "d": "x = 16"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_197",
+    "question": "Si log₂(x) = 5, entonces x =",
+    "options": {
+      "a": "10",
+      "b": "25",
+      "c": "32",
+      "d": "64"
+    },
+    "correct": "c",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_198",
+    "question": "La función f(x) = 2ˣ pasa por el punto:",
+    "options": {
+      "a": "(0, 0)",
+      "b": "(0, 1)",
+      "c": "(1, 1)",
+      "d": "(0, 2)"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_199",
+    "question": "Simplifica: ln(e⁵) - ln(e²)",
+    "options": {
+      "a": "e³",
+      "b": "5/2",
+      "c": "3",
+      "d": "7"
+    },
+    "correct": "c",
+    "topic": "Logaritmos y exponenciales"
+  },
+  {
+    "id": "math_200",
+    "question": "Resuelve: log₄(x) = 3",
+    "options": {
+      "a": "x = 12",
+      "b": "x = 64",
+      "c": "x = 81",
+      "d": "x = 256"
+    },
+    "correct": "b",
+    "topic": "Logaritmos y exponenciales"
+  }
+]
