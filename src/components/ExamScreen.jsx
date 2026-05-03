@@ -75,9 +75,9 @@ export default function ExamScreen({ questions, timeLimit, onFinish, onQuit, stu
   const subjectColor = getSubjectColor()
 
   return (
-    <div className="min-h-screen flex flex-col safe-top">
+    <div className="min-h-screen flex flex-col">
       {/* Top bar: timer + progress — responsive layout */}
-      <div className="sticky top-0 z-50 bg-primary-black text-primary-white px-3 sm:px-4 py-2 sm:py-3">
+      <div className="sticky top-0 z-50 bg-primary-black text-primary-white px-3 sm:px-4 pb-2 sm:pb-3 pt-[max(0.5rem,env(safe-area-inset-top))]">
         <div className="max-w-4xl mx-auto">
           {/* Mobile: timer prominent, info below */}
           <div className="flex items-center justify-between">
@@ -120,7 +120,7 @@ export default function ExamScreen({ questions, timeLimit, onFinish, onQuit, stu
 
       {/* Mobile navigator drawer */}
       {showNavigator && (
-        <div className="sm:hidden bg-accent-cream/95 border-b-3 border-primary-black p-3 sticky top-[52px] z-40">
+        <div className="sm:hidden bg-accent-cream/95 border-b-3 border-primary-black p-3 sticky top-[calc(52px+env(safe-area-inset-top))] z-40">
           <div className="flex flex-wrap gap-1">
             {questions.map((_, idx) => (
               <button
